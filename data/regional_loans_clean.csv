@@ -1,0 +1,1793 @@
+region,sector,year,quarter,loan_amount
+Bishkek,Industry,2018,1,8210.739981637827
+Bishkek,"Agriculture, procurement and  processing",2018,1,2162.3576035052783
+Bishkek,Trade,2018,1,23417.60847016373
+Bishkek,Construction,2018,1,6679.568582440083
+Bishkek,Mortgage,2018,1,6698.826270504911
+Bishkek,Individuals,2018,1,3932.263692430772
+Bishkek,Other loans,2018,1,11197.08507210667
+Bishkek,Industry,2018,2,8562.855475418019
+Bishkek,"Agriculture, procurement and  processing",2018,2,2818.491339825751
+Bishkek,Trade,2018,2,24309.018816378197
+Bishkek,Construction,2018,2,7249.138891079087
+Bishkek,Mortgage,2018,2,6865.648012960759
+Bishkek,Individuals,2018,2,4213.554328968517
+Bishkek,Other loans,2018,2,12137.807309133821
+Bishkek,Industry,2018,3,9072.425665176872
+Bishkek,"Agriculture, procurement and  processing",2018,3,2843.9362990825625
+Bishkek,Trade,2018,3,24056.871008986363
+Bishkek,Construction,2018,3,8399.839555614626
+Bishkek,Mortgage,2018,3,7105.722152546516
+Bishkek,Individuals,2018,3,4694.7351866052495
+Bishkek,Other loans,2018,3,13085.415420162644
+Bishkek,Industry,2018,4,9408.677339019998
+Bishkek,"Agriculture, procurement and  processing",2018,4,2811.0989374603937
+Bishkek,Trade,2018,4,24467.758041184832
+Bishkek,Construction,2018,4,9188.369055255142
+Bishkek,Mortgage,2018,4,7687.853456791378
+Bishkek,Individuals,2018,4,5039.066529119825
+Bishkek,Other loans,2018,4,13756.004476635731
+Bishkek,Industry,2019,1,9203.172233969299
+Bishkek,"Agriculture, procurement and  processing",2019,1,2938.505462440532
+Bishkek,Trade,2019,1,25270.64487020467
+Bishkek,Construction,2019,1,9738.722669662155
+Bishkek,Mortgage,2019,1,7809.870184289994
+Bishkek,Individuals,2019,1,5015.425059558444
+Bishkek,Other loans,2019,1,14019.587714029636
+Bishkek,Industry,2019,2,9139.62491304177
+Bishkek,"Agriculture, procurement and  processing",2019,2,3243.9367041723144
+Bishkek,Trade,2019,2,25473.803461428768
+Bishkek,Construction,2019,2,10043.390774041814
+Bishkek,Mortgage,2019,2,8236.915731818486
+Bishkek,Individuals,2019,2,5420.459659671037
+Bishkek,Other loans,2019,2,14628.801741600351
+Bishkek,Industry,2019,3,9015.425342483642
+Bishkek,"Agriculture, procurement and  processing",2019,3,3306.4028039039977
+Bishkek,Trade,2019,3,25462.416508622297
+Bishkek,Construction,2019,3,10332.601524385063
+Bishkek,Mortgage,2019,3,8843.44057655563
+Bishkek,Individuals,2019,3,5945.51169002109
+Bishkek,Other loans,2019,3,15234.719851940567
+Bishkek,Industry,2019,4,9106.118884374686
+Bishkek,"Agriculture, procurement and  processing",2019,4,3558.9643842977825
+Bishkek,Trade,2019,4,25775.190427223093
+Bishkek,Construction,2019,4,9813.972684053255
+Bishkek,Mortgage,2019,4,9596.24732068283
+Bishkek,Individuals,2019,4,6171.797896399272
+Bishkek,Other loans,2019,4,15956.185458213531
+Bishkek,Industry,2020,1,9882.004243166799
+Bishkek,"Agriculture, procurement and  processing",2020,1,3542.990889285593
+Bishkek,Trade,2020,1,28243.393091605187
+Bishkek,Construction,2020,1,10420.804677416745
+Bishkek,Mortgage,2020,1,9999.4044477808
+Bishkek,Individuals,2020,1,6218.878619638568
+Bishkek,Other loans,2020,1,17838.06034556742
+Bishkek,Industry,2020,2,9807.365493046484
+Bishkek,"Agriculture, procurement and  processing",2020,2,3629.7710457800836
+Bishkek,Trade,2020,2,26644.657279103445
+Bishkek,Construction,2020,2,9709.066611275906
+Bishkek,Mortgage,2020,2,9887.214265886418
+Bishkek,Individuals,2020,2,6015.882977651069
+Bishkek,Other loans,2020,2,18103.663376905246
+Bishkek,Industry,2020,3,10530.38716915895
+Bishkek,"Agriculture, procurement and  processing",2020,3,3739.482800230012
+Bishkek,Trade,2020,3,27547.414592948808
+Bishkek,Construction,2020,3,10276.045924021739
+Bishkek,Mortgage,2020,3,10447.549934553666
+Bishkek,Individuals,2020,3,6401.109557807909
+Bishkek,Other loans,2020,3,18777.127323228484
+Bishkek,Industry,2020,4,10960.368698478604
+Bishkek,"Agriculture, procurement and  processing",2020,4,3709.1334143815825
+Bishkek,Trade,2020,4,29436.46101981077
+Bishkek,Construction,2020,4,10144.423105004347
+Bishkek,Mortgage,2020,4,10986.921904574468
+Bishkek,Individuals,2020,4,6637.687164199275
+Bishkek,Other loans,2020,4,19241.839476145615
+Bishkek,Industry,2021,1,10942.837552627765
+Bishkek,"Agriculture, procurement and  processing",2021,1,3801.920349110312
+Bishkek,Trade,2021,1,31921.527285154687
+Bishkek,Construction,2021,1,9975.15898666781
+Bishkek,Mortgage,2021,1,10850.71271867805
+Bishkek,Individuals,2021,1,6808.647489628396
+Bishkek,Other loans,2021,1,19459.95384541592
+Bishkek,Industry,2021,2,10661.753671464417
+Bishkek,"Agriculture, procurement and  processing",2021,2,4139.768439990006
+Bishkek,Trade,2021,2,33044.31225669284
+Bishkek,Construction,2021,2,9806.593809488957
+Bishkek,Mortgage,2021,2,11057.658072625798
+Bishkek,Individuals,2021,2,7379.108381359533
+Bishkek,Other loans,2021,2,19484.042950090392
+Bishkek,Industry,2021,3,10308.84426113199
+Bishkek,"Agriculture, procurement and  processing",2021,3,4339.962226565536
+Bishkek,Trade,2021,3,33689.8687789661
+Bishkek,Construction,2021,3,9701.523237223206
+Bishkek,Mortgage,2021,3,11409.983756661097
+Bishkek,Individuals,2021,3,7915.879294949157
+Bishkek,Other loans,2021,3,18133.507564033243
+Bishkek,Industry,2021,4,10446.01016842909
+Bishkek,"Agriculture, procurement and  processing",2021,4,4378.690689971356
+Bishkek,Trade,2021,4,37215.845691842595
+Bishkek,Construction,2021,4,9420.37201416137
+Bishkek,Mortgage,2021,4,12520.16736346781
+Bishkek,Individuals,2021,4,8344.390464532731
+Bishkek,Other loans,2021,4,18142.74741443705
+Bishkek,Industry,2022,1,10057.384076529137
+Bishkek,"Agriculture, procurement and  processing",2022,1,4169.710599809032
+Bishkek,Trade,2022,1,37622.50341769005
+Bishkek,Construction,2022,1,9245.97422281349
+Bishkek,Mortgage,2022,1,12722.65247092682
+Bishkek,Individuals,2022,1,8620.901397615782
+Bishkek,Other loans,2022,1,17128.29820786986
+Bishkek,Industry,2022,2,10121.410673421871
+Bishkek,"Agriculture, procurement and  processing",2022,2,3956.80410652212
+Bishkek,Trade,2022,2,37445.57409608985
+Bishkek,Construction,2022,2,8752.354213155184
+Bishkek,Mortgage,2022,2,13816.635339379
+Bishkek,Individuals,2022,2,9641.025617450841
+Bishkek,Other loans,2022,2,15898.382798013034
+Bishkek,Industry,2022,3,9360.640353867007
+Bishkek,"Agriculture, procurement and  processing",2022,3,4204.975830459071
+Bishkek,Trade,2022,3,36654.44668454341
+Bishkek,Construction,2022,3,8338.229624702708
+Bishkek,Mortgage,2022,3,14225.434317754516
+Bishkek,Individuals,2022,3,11101.656031153712
+Bishkek,Other loans,2022,3,15425.85760601845
+Bishkek,Industry,2022,4,9625.969208379718
+Bishkek,"Agriculture, procurement and  processing",2022,4,4099.7816344689145
+Bishkek,Trade,2022,4,39340.0186633274
+Bishkek,Construction,2022,4,8431.271986368676
+Bishkek,Mortgage,2022,4,15314.384421225486
+Bishkek,Individuals,2022,4,12438.62836455413
+Bishkek,Other loans,2022,4,16149.980106128296
+Bishkek,Industry,2023,1,8749.752295605591
+Bishkek,"Agriculture, procurement and  processing",2023,1,4004.671427338441
+Bishkek,Trade,2023,1,40925.222881555506
+Bishkek,Construction,2023,1,8043.491018888371
+Bishkek,Mortgage,2023,1,15234.811420677519
+Bishkek,Individuals,2023,1,13572.855782522953
+Bishkek,Other loans,2023,1,16261.77099299328
+Bishkek,Industry,2023,2,8758.329424406402
+Bishkek,"Agriculture, procurement and  processing",2023,2,3870.840551224653
+Bishkek,Trade,2023,2,45035.86162841172
+Bishkek,Construction,2023,2,7942.923698543217
+Bishkek,Mortgage,2023,2,15620.61029867777
+Bishkek,Individuals,2023,2,16441.930150639695
+Bishkek,Other loans,2023,2,17152.493552554144
+Bishkek,Industry,2023,3,8581.864511731113
+Bishkek,"Agriculture, procurement and  processing",2023,3,3945.6003884652446
+Bishkek,Trade,2023,3,46601.00115263343
+Bishkek,Construction,2023,3,7817.411305918199
+Bishkek,Mortgage,2023,3,16779.353636550968
+Bishkek,Individuals,2023,3,19999.031888658417
+Bishkek,Other loans,2023,3,17585.911725758815
+Bishkek,Industry,2023,4,9506.92489941963
+Bishkek,"Agriculture, procurement and  processing",2023,4,3833.691368275922
+Bishkek,Trade,2023,4,53151.03509466762
+Bishkek,Construction,2023,4,7660.56377547514
+Bishkek,Mortgage,2023,4,17412.097875088308
+Bishkek,Individuals,2023,4,21372.99385631819
+Bishkek,Other loans,2023,4,17571.383269175058
+Bishkek,Industry,2024,1,9935.08890134882
+Bishkek,"Agriculture, procurement and  processing",2024,1,3687.1211367616474
+Bishkek,Trade,2024,1,53910.85113575738
+Bishkek,Construction,2024,1,7533.4555392635775
+Bishkek,Mortgage,2024,1,17543.329613726775
+Bishkek,Individuals,2024,1,22206.297445837958
+Bishkek,Other loans,2024,1,17352.37476544522
+Bishkek,Industry,2024,2,8339.957025058951
+Bishkek,"Agriculture, procurement and  processing",2024,2,3658.7282533013167
+Bishkek,Trade,2024,2,57051.272688276586
+Bishkek,Construction,2024,2,9039.698847362519
+Bishkek,Mortgage,2024,2,18085.649450706
+Bishkek,Individuals,2024,2,25629.10431134632
+Bishkek,Other loans,2024,2,17085.695850302905
+Bishkek,Industry,2024,3,8564.129639196095
+Bishkek,"Agriculture, procurement and  processing",2024,3,3747.2286902580004
+Bishkek,Trade,2024,3,56817.56029300531
+Bishkek,Construction,2024,3,8612.251506844
+Bishkek,Mortgage,2024,3,19377.21748226799
+Bishkek,Individuals,2024,3,30336.93766163787
+Bishkek,Other loans,2024,3,17960.772112561146
+Bishkek,Industry,2024,4,9583.778653502957
+Bishkek,"Agriculture, procurement and  processing",2024,4,4602.719347179999
+Bishkek,Trade,2024,4,67380.38302837017
+Bishkek,Construction,2024,4,8648.807168970003
+Bishkek,Mortgage,2024,4,21335.33662815
+Bishkek,Individuals,2024,4,38886.8690369879
+Bishkek,Other loans,2024,4,19961.624067908066
+Bishkek,Industry,2025,1,9340.532378716
+Bishkek,"Agriculture, procurement and  processing",2025,1,4705.764056136
+Bishkek,Trade,2025,1,72935.3652735704
+Bishkek,Construction,2025,1,8584.984245012
+Bishkek,Mortgage,2025,1,23231.507777704795
+Bishkek,Individuals,2025,1,47460.10962699832
+Bishkek,Other loans,2025,1,21448.38812061405
+Bishkek,Industry,2025,2,10114.260036694148
+Bishkek,"Agriculture, procurement and  processing",2025,2,4605.5476064821
+Bishkek,Trade,2025,2,79252.22892344407
+Bishkek,Construction,2025,2,9413.146780073359
+Bishkek,Mortgage,2025,2,25077.288996981966
+Bishkek,Individuals,2025,2,61622.18936660117
+Bishkek,Other loans,2025,2,23648.137897680186
+Bishkek,Industry,2025,3,6806.51994759
+Bishkek,"Agriculture, procurement and  processing",2025,3,7658.28437463
+Bishkek,Trade,2025,3,79605.11422953999
+Bishkek,Construction,2025,3,10999.69723425
+Bishkek,Mortgage,2025,3,26465.68906289
+Bishkek,Individuals,2025,3,79063.42053867
+Bishkek,Other loans,2025,3,26874.21175298999
+Bishkek,Industry,2025,4,9836.905310129847
+Bishkek,"Agriculture, procurement and  processing",2025,4,8026.846693823984
+Bishkek,Trade,2025,4,86030.04053470431
+Bishkek,Construction,2025,4,12438.216719776254
+Bishkek,Mortgage,2025,4,35629.397122465474
+Bishkek,Individuals,2025,4,89024.61036710831
+Bishkek,Other loans,2025,4,29822.470311059253
+Batken oblast,Industry,2018,1,203.06731807634986
+Batken oblast,"Agriculture, procurement and  processing",2018,1,1530.851433120044
+Batken oblast,Trade,2018,1,864.8933440128624
+Batken oblast,Construction,2018,1,117.447202476175
+Batken oblast,Mortgage,2018,1,133.69966737399997
+Batken oblast,Individuals,2018,1,605.8414130377977
+Batken oblast,Other loans,2018,1,229.0107851391452
+Batken oblast,Industry,2018,2,235.97332983951773
+Batken oblast,"Agriculture, procurement and  processing",2018,2,1651.527030918317
+Batken oblast,Trade,2018,2,900.0422271821377
+Batken oblast,Construction,2018,2,162.79075749819998
+Batken oblast,Mortgage,2018,2,134.0002960264
+Batken oblast,Individuals,2018,2,651.5245210650794
+Batken oblast,Other loans,2018,2,248.62186798796387
+Batken oblast,Industry,2018,3,243.45110096944683
+Batken oblast,"Agriculture, procurement and  processing",2018,3,1594.7587355543571
+Batken oblast,Trade,2018,3,894.3231597888968
+Batken oblast,Construction,2018,3,197.65904239460102
+Batken oblast,Mortgage,2018,3,134.372615551975
+Batken oblast,Individuals,2018,3,750.0735168452093
+Batken oblast,Other loans,2018,3,255.31430797112898
+Batken oblast,Industry,2018,4,259.477445352
+Batken oblast,"Agriculture, procurement and  processing",2018,4,1558.4567110941632
+Batken oblast,Trade,2018,4,921.8688809021902
+Batken oblast,Construction,2018,4,204.3775349225
+Batken oblast,Mortgage,2018,4,144.7789836125
+Batken oblast,Individuals,2018,4,820.3971888232661
+Batken oblast,Other loans,2018,4,264.76446853613805
+Batken oblast,Industry,2019,1,291.26547843182556
+Batken oblast,"Agriculture, procurement and  processing",2019,1,1617.3524167644418
+Batken oblast,Trade,2019,1,890.040683088905
+Batken oblast,Construction,2019,1,217.3539984870496
+Batken oblast,Mortgage,2019,1,148.1244363596847
+Batken oblast,Individuals,2019,1,802.8932482764548
+Batken oblast,Other loans,2019,1,262.27071497167424
+Batken oblast,Industry,2019,2,327.85446931
+Batken oblast,"Agriculture, procurement and  processing",2019,2,1770.075209484799
+Batken oblast,Trade,2019,2,951.1100903277439
+Batken oblast,Construction,2019,2,263.953103859552
+Batken oblast,Mortgage,2019,2,153.74114273091203
+Batken oblast,Individuals,2019,2,854.7963100243671
+Batken oblast,Other loans,2019,2,279.50427167064794
+Batken oblast,Industry,2019,3,328.30819089
+Batken oblast,"Agriculture, procurement and  processing",2019,3,1809.2663488459762
+Batken oblast,Trade,2019,3,953.5603099971631
+Batken oblast,Construction,2019,3,296.2007388795842
+Batken oblast,Mortgage,2019,3,166.153273108541
+Batken oblast,Individuals,2019,3,932.288566163629
+Batken oblast,Other loans,2019,3,282.1039912737421
+Batken oblast,Industry,2019,4,369.302218
+Batken oblast,"Agriculture, procurement and  processing",2019,4,1857.3488388541891
+Batken oblast,Trade,2019,4,951.1358336427361
+Batken oblast,Construction,2019,4,308.51054129569695
+Batken oblast,Mortgage,2019,4,177.056797117046
+Batken oblast,Individuals,2019,4,998.3841670745009
+Batken oblast,Other loans,2019,4,298.463936739075
+Batken oblast,Industry,2020,1,399.09789283000003
+Batken oblast,"Agriculture, procurement and  processing",2020,1,1827.1442354010762
+Batken oblast,Trade,2020,1,1005.3895904051577
+Batken oblast,Construction,2020,1,297.0456546102
+Batken oblast,Mortgage,2020,1,193.66933877740001
+Batken oblast,Individuals,2020,1,979.2644680456131
+Batken oblast,Other loans,2020,1,311.8756582285001
+Batken oblast,Industry,2020,2,399.29436432
+Batken oblast,"Agriculture, procurement and  processing",2020,2,1907.7695371899995
+Batken oblast,Trade,2020,2,967.8276156330991
+Batken oblast,Construction,2020,2,290.331662756378
+Batken oblast,Mortgage,2020,2,193.65542314241102
+Batken oblast,Individuals,2020,2,907.6326475630001
+Batken oblast,Other loans,2020,2,293.267384941269
+Batken oblast,Industry,2020,3,437.48909417
+Batken oblast,"Agriculture, procurement and  processing",2020,3,1961.5969773395477
+Batken oblast,Trade,2020,3,976.8143678601509
+Batken oblast,Construction,2020,3,301.1968536819999
+Batken oblast,Mortgage,2020,3,214.66921832800003
+Batken oblast,Individuals,2020,3,916.5003138431028
+Batken oblast,Other loans,2020,3,298.213739918
+Batken oblast,Industry,2020,4,421.4742983
+Batken oblast,"Agriculture, procurement and  processing",2020,4,1935.9004820546304
+Batken oblast,Trade,2020,4,1002.7636992554263
+Batken oblast,Construction,2020,4,308.68319930571937
+Batken oblast,Mortgage,2020,4,227.05396029231002
+Batken oblast,Individuals,2020,4,918.9714696064249
+Batken oblast,Other loans,2020,4,291.2896159233595
+Batken oblast,Industry,2021,1,423.21683069172616
+Batken oblast,"Agriculture, procurement and  processing",2021,1,2009.7541106727494
+Batken oblast,Trade,2021,1,1048.423412480679
+Batken oblast,Construction,2021,1,299.6426614595261
+Batken oblast,Mortgage,2021,1,243.05553361877722
+Batken oblast,Individuals,2021,1,924.6561345440439
+Batken oblast,Other loans,2021,1,332.67152719378595
+Batken oblast,Industry,2021,2,422.0692772442362
+Batken oblast,"Agriculture, procurement and  processing",2021,2,2125.1597523891487
+Batken oblast,Trade,2021,2,1064.5299071901993
+Batken oblast,Construction,2021,2,342.1638581619383
+Batken oblast,Mortgage,2021,2,270.5429258588091
+Batken oblast,Individuals,2021,2,973.1621397988821
+Batken oblast,Other loans,2021,2,347.089499234736
+Batken oblast,Industry,2021,3,402.1781015803362
+Batken oblast,"Agriculture, procurement and  processing",2021,3,2106.050250332919
+Batken oblast,Trade,2021,3,1037.320566095543
+Batken oblast,Construction,2021,3,355.23050459226613
+Batken oblast,Mortgage,2021,3,305.9537596551972
+Batken oblast,Individuals,2021,3,1134.056531175798
+Batken oblast,Other loans,2021,3,338.389284757138
+Batken oblast,Industry,2021,4,397.33337786
+Batken oblast,"Agriculture, procurement and  processing",2021,4,2072.176981719195
+Batken oblast,Trade,2021,4,1074.996263858065
+Batken oblast,Construction,2021,4,329.99282868482095
+Batken oblast,Mortgage,2021,4,311.27007850441
+Batken oblast,Individuals,2021,4,1269.877783168178
+Batken oblast,Other loans,2021,4,345.410084673653
+Batken oblast,Industry,2022,1,431.35563611371
+Batken oblast,"Agriculture, procurement and  processing",2022,1,2165.4925731322814
+Batken oblast,Trade,2022,1,1120.0722084297702
+Batken oblast,Construction,2022,1,308.866876298153
+Batken oblast,Mortgage,2022,1,319.55683943364994
+Batken oblast,Individuals,2022,1,1347.6552380961887
+Batken oblast,Other loans,2022,1,362.049302874843
+Batken oblast,Industry,2022,2,471.51843566
+Batken oblast,"Agriculture, procurement and  processing",2022,2,2333.1345633673664
+Batken oblast,Trade,2022,2,1146.935160928774
+Batken oblast,Construction,2022,2,300.936262507513
+Batken oblast,Mortgage,2022,2,313.54374785000005
+Batken oblast,Individuals,2022,2,1481.6114729168762
+Batken oblast,Other loans,2022,2,371.930973405577
+Batken oblast,Industry,2022,3,521.24486787593
+Batken oblast,"Agriculture, procurement and  processing",2022,3,2307.4897063929743
+Batken oblast,Trade,2022,3,1188.751472587918
+Batken oblast,Construction,2022,3,284.436668582334
+Batken oblast,Mortgage,2022,3,322.88170889582807
+Batken oblast,Individuals,2022,3,1608.807320347841
+Batken oblast,Other loans,2022,3,363.090652385618
+Batken oblast,Industry,2022,4,624.35714863117
+Batken oblast,"Agriculture, procurement and  processing",2022,4,2328.4710727076
+Batken oblast,Trade,2022,4,1393.9376806686005
+Batken oblast,Construction,2022,4,266.81198840050297
+Batken oblast,Mortgage,2022,4,358.62250538880005
+Batken oblast,Individuals,2022,4,1764.1270708848429
+Batken oblast,Other loans,2022,4,402.0560900536
+Batken oblast,Industry,2023,1,381.11674104119993
+Batken oblast,"Agriculture, procurement and  processing",2023,1,2386.336530621272
+Batken oblast,Trade,2023,1,1839.899659711341
+Batken oblast,Construction,2023,1,239.22259169967802
+Batken oblast,Mortgage,2023,1,384.8271647798
+Batken oblast,Individuals,2023,1,1945.3394179906873
+Batken oblast,Other loans,2023,1,435.9457188174
+Batken oblast,Industry,2023,2,375.3702335934199
+Batken oblast,"Agriculture, procurement and  processing",2023,2,2658.4534730655764
+Batken oblast,Trade,2023,2,1985.0021264243303
+Batken oblast,Construction,2023,2,248.286782700419
+Batken oblast,Mortgage,2023,2,421.90481118806997
+Batken oblast,Individuals,2023,2,2340.6124228951985
+Batken oblast,Other loans,2023,2,478.06561427585905
+Batken oblast,Industry,2023,3,338.5490347291
+Batken oblast,"Agriculture, procurement and  processing",2023,3,2759.349990160198
+Batken oblast,Trade,2023,3,2143.79520079006
+Batken oblast,Construction,2023,3,251.76477276340597
+Batken oblast,Mortgage,2023,3,481.04256588849995
+Batken oblast,Individuals,2023,3,2978.4771027226043
+Batken oblast,Other loans,2023,3,487.3403394121
+Batken oblast,Industry,2023,4,329.19057135031005
+Batken oblast,"Agriculture, procurement and  processing",2023,4,2802.0373851894583
+Batken oblast,Trade,2023,4,2393.8621042092705
+Batken oblast,Construction,2023,4,242.698296076326
+Batken oblast,Mortgage,2023,4,524.60100983092
+Batken oblast,Individuals,2023,4,3319.6373427372946
+Batken oblast,Other loans,2023,4,533.0990505681409
+Batken oblast,Industry,2024,1,340.14215719352
+Batken oblast,"Agriculture, procurement and  processing",2024,1,2768.9509559271614
+Batken oblast,Trade,2024,1,2481.4556924983713
+Batken oblast,Construction,2024,1,225.73909398224
+Batken oblast,Mortgage,2024,1,553.00182675218
+Batken oblast,Individuals,2024,1,3492.1367900377454
+Batken oblast,Other loans,2024,1,531.903437319922
+Batken oblast,Industry,2024,2,366.09955660867644
+Batken oblast,"Agriculture, procurement and  processing",2024,2,2864.1669292462
+Batken oblast,Trade,2024,2,2590.047338040465
+Batken oblast,Construction,2024,2,253.47389110257697
+Batken oblast,Mortgage,2024,2,635.7041332718998
+Batken oblast,Individuals,2024,2,3978.0800703555433
+Batken oblast,Other loans,2024,2,513.045702072204
+Batken oblast,Industry,2024,3,374.36834782218557
+Batken oblast,"Agriculture, procurement and  processing",2024,3,2918.12929239
+Batken oblast,Trade,2024,3,2619.331797741118
+Batken oblast,Construction,2024,3,276.700094430227
+Batken oblast,Mortgage,2024,3,728.8541313200001
+Batken oblast,Individuals,2024,3,4936.735043305934
+Batken oblast,Other loans,2024,3,565.3386696360001
+Batken oblast,Industry,2024,4,390.35783624999993
+Batken oblast,"Agriculture, procurement and  processing",2024,4,2905.309483069998
+Batken oblast,Trade,2024,4,2781.439779159998
+Batken oblast,Construction,2024,4,308.83724437406
+Batken oblast,Mortgage,2024,4,853.23017431
+Batken oblast,Individuals,2024,4,5808.300039053597
+Batken oblast,Other loans,2024,4,743.9854006600002
+Batken oblast,Industry,2025,1,429.85865158600006
+Batken oblast,"Agriculture, procurement and  processing",2025,1,3009.4667894880004
+Batken oblast,Trade,2025,1,2890.5805331826914
+Batken oblast,Construction,2025,1,300.198534246896
+Batken oblast,Mortgage,2025,1,910.5054270000002
+Batken oblast,Individuals,2025,1,6352.642073379999
+Batken oblast,Other loans,2025,1,1004.625540908
+Batken oblast,Industry,2025,2,471.62480410202
+Batken oblast,"Agriculture, procurement and  processing",2025,2,3171.8591968897604
+Batken oblast,Trade,2025,2,3092.310050646479
+Batken oblast,Construction,2025,2,306.92507144655997
+Batken oblast,Mortgage,2025,2,1045.3375146699998
+Batken oblast,Individuals,2025,2,6931.266423635832
+Batken oblast,Other loans,2025,2,1263.7738176133598
+Batken oblast,Industry,2025,3,405.9080054399999
+Batken oblast,"Agriculture, procurement and  processing",2025,3,3272.85514085
+Batken oblast,Trade,2025,3,2313.0705016800002
+Batken oblast,Construction,2025,3,362.95488248
+Batken oblast,Mortgage,2025,3,1347.3768044100002
+Batken oblast,Individuals,2025,3,7373.323923299999
+Batken oblast,Other loans,2025,3,2451.41657449
+Batken oblast,Industry,2025,4,415.9522464629578
+Batken oblast,"Agriculture, procurement and  processing",2025,4,3114.0743161646274
+Batken oblast,Trade,2025,4,2440.6075165957095
+Batken oblast,Construction,2025,4,357.5497054189221
+Batken oblast,Mortgage,2025,4,1744.8242131012776
+Batken oblast,Individuals,2025,4,7645.6984520599835
+Batken oblast,Other loans,2025,4,2569.723810789373
+Jalal-Abad oblast,Industry,2018,1,352.90927660962495
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2018,1,4585.004464301076
+Jalal-Abad oblast,Trade,2018,1,2162.3214550345774
+Jalal-Abad oblast,Construction,2018,1,316.1025123687602
+Jalal-Abad oblast,Mortgage,2018,1,673.4904985420811
+Jalal-Abad oblast,Individuals,2018,1,1549.2980313030191
+Jalal-Abad oblast,Other loans,2018,1,736.7811703569965
+Jalal-Abad oblast,Industry,2018,2,423.5551882666
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2018,2,5217.770688757412
+Jalal-Abad oblast,Trade,2018,2,2294.6747838774686
+Jalal-Abad oblast,Construction,2018,2,351.24616093125627
+Jalal-Abad oblast,Mortgage,2018,2,704.712874315352
+Jalal-Abad oblast,Individuals,2018,2,1692.7469738698144
+Jalal-Abad oblast,Other loans,2018,2,792.50827878817
+Jalal-Abad oblast,Industry,2018,3,469.50333150655996
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2018,3,5175.776295313655
+Jalal-Abad oblast,Trade,2018,3,2346.0555622476963
+Jalal-Abad oblast,Construction,2018,3,364.5361285731057
+Jalal-Abad oblast,Mortgage,2018,3,769.5126485852439
+Jalal-Abad oblast,Individuals,2018,3,1887.3977300458816
+Jalal-Abad oblast,Other loans,2018,3,812.683724022406
+Jalal-Abad oblast,Industry,2018,4,465.9634678635
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2018,4,5066.029549213322
+Jalal-Abad oblast,Trade,2018,4,2319.0353101333703
+Jalal-Abad oblast,Construction,2018,4,368.9264663486135
+Jalal-Abad oblast,Mortgage,2018,4,775.2546506195001
+Jalal-Abad oblast,Individuals,2018,4,1971.387129516998
+Jalal-Abad oblast,Other loans,2018,4,841.0358271504481
+Jalal-Abad oblast,Industry,2019,1,463.56514492637933
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2019,1,5303.282333557276
+Jalal-Abad oblast,Trade,2019,1,2278.5104190735415
+Jalal-Abad oblast,Construction,2019,1,351.6615407556845
+Jalal-Abad oblast,Mortgage,2019,1,786.1232567656069
+Jalal-Abad oblast,Individuals,2019,1,1918.414036693242
+Jalal-Abad oblast,Other loans,2019,1,855.0092474613094
+Jalal-Abad oblast,Industry,2019,2,525.425963204448
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2019,2,5940.390724554715
+Jalal-Abad oblast,Trade,2019,2,2456.238957823136
+Jalal-Abad oblast,Construction,2019,2,413.36995736823997
+Jalal-Abad oblast,Mortgage,2019,2,829.752543826112
+Jalal-Abad oblast,Individuals,2019,2,2109.8223531267927
+Jalal-Abad oblast,Other loans,2019,2,997.850115960944
+Jalal-Abad oblast,Industry,2019,3,506.761255430518
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2019,3,6032.996111016784
+Jalal-Abad oblast,Trade,2019,3,2463.554729888762
+Jalal-Abad oblast,Construction,2019,3,719.874970554054
+Jalal-Abad oblast,Mortgage,2019,3,892.9188193719119
+Jalal-Abad oblast,Individuals,2019,3,2258.8759628821017
+Jalal-Abad oblast,Other loans,2019,3,985.469783617887
+Jalal-Abad oblast,Industry,2019,4,248.85805523309799
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2019,4,5006.644334841208
+Jalal-Abad oblast,Trade,2019,4,2500.3001583553255
+Jalal-Abad oblast,Construction,2019,4,794.4461193263398
+Jalal-Abad oblast,Mortgage,2019,4,949.252694516829
+Jalal-Abad oblast,Individuals,2019,4,2302.25161110316
+Jalal-Abad oblast,Other loans,2019,4,959.8157612765709
+Jalal-Abad oblast,Industry,2020,1,292.798506559
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2020,1,5061.4235666386485
+Jalal-Abad oblast,Trade,2020,1,2618.8757066225726
+Jalal-Abad oblast,Construction,2020,1,851.74062178941
+Jalal-Abad oblast,Mortgage,2020,1,1030.5436284826
+Jalal-Abad oblast,Individuals,2020,1,2240.5504569474906
+Jalal-Abad oblast,Other loans,2020,1,937.6361651360999
+Jalal-Abad oblast,Industry,2020,2,297.594430171361
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2020,2,5499.451781084993
+Jalal-Abad oblast,Trade,2020,2,2635.357658959807
+Jalal-Abad oblast,Construction,2020,2,857.8954813661602
+Jalal-Abad oblast,Mortgage,2020,2,1031.735255129671
+Jalal-Abad oblast,Individuals,2020,2,2137.1606947559962
+Jalal-Abad oblast,Other loans,2020,2,985.7218898747809
+Jalal-Abad oblast,Industry,2020,3,345.740265854
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2020,3,5765.877620285988
+Jalal-Abad oblast,Trade,2020,3,2673.6761305973478
+Jalal-Abad oblast,Construction,2020,3,935.1304457145529
+Jalal-Abad oblast,Mortgage,2020,3,1108.4468591455109
+Jalal-Abad oblast,Individuals,2020,3,2230.109900331994
+Jalal-Abad oblast,Other loans,2020,3,977.05123387
+Jalal-Abad oblast,Industry,2020,4,324.8172593131963
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2020,4,5767.30880255304
+Jalal-Abad oblast,Trade,2020,4,2686.0450942771117
+Jalal-Abad oblast,Construction,2020,4,959.2798359264842
+Jalal-Abad oblast,Mortgage,2020,4,1139.2026246460891
+Jalal-Abad oblast,Individuals,2020,4,2214.4133672569296
+Jalal-Abad oblast,Other loans,2020,4,904.6041456557939
+Jalal-Abad oblast,Industry,2021,1,582.5268391504414
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2021,1,7207.374154753413
+Jalal-Abad oblast,Trade,2021,1,2856.8602203328924
+Jalal-Abad oblast,Construction,2021,1,937.6176396105699
+Jalal-Abad oblast,Mortgage,2021,1,1194.1634125014082
+Jalal-Abad oblast,Individuals,2021,1,2235.856409051923
+Jalal-Abad oblast,Other loans,2021,1,963.218214685668
+Jalal-Abad oblast,Industry,2021,2,587.7837136032093
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2021,2,7583.799260724438
+Jalal-Abad oblast,Trade,2021,2,3057.2399910713602
+Jalal-Abad oblast,Construction,2021,2,999.8653216435699
+Jalal-Abad oblast,Mortgage,2021,2,1279.6857034441427
+Jalal-Abad oblast,Individuals,2021,2,2402.908238912918
+Jalal-Abad oblast,Other loans,2021,2,966.2617842115241
+Jalal-Abad oblast,Industry,2021,3,605.3385268471984
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2021,3,7451.816268776303
+Jalal-Abad oblast,Trade,2021,3,3141.6329671608987
+Jalal-Abad oblast,Construction,2021,3,1078.885911712039
+Jalal-Abad oblast,Mortgage,2021,3,1372.3147606862897
+Jalal-Abad oblast,Individuals,2021,3,2707.9494229830075
+Jalal-Abad oblast,Other loans,2021,3,1007.172620667746
+Jalal-Abad oblast,Industry,2021,4,488.54239402694907
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2021,4,6133.891192160247
+Jalal-Abad oblast,Trade,2021,4,3096.6996296988777
+Jalal-Abad oblast,Construction,2021,4,1066.169852090484
+Jalal-Abad oblast,Mortgage,2021,4,1385.782313688304
+Jalal-Abad oblast,Individuals,2021,4,2862.0618393609966
+Jalal-Abad oblast,Other loans,2021,4,1054.224266916628
+Jalal-Abad oblast,Industry,2022,1,324.61393706352305
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2022,1,6262.844369146639
+Jalal-Abad oblast,Trade,2022,1,3035.814945603946
+Jalal-Abad oblast,Construction,2022,1,1036.8260646228741
+Jalal-Abad oblast,Mortgage,2022,1,1367.22574769283
+Jalal-Abad oblast,Individuals,2022,1,2900.8397848739974
+Jalal-Abad oblast,Other loans,2022,1,1224.122290617208
+Jalal-Abad oblast,Industry,2022,2,637.085335726548
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2022,2,8296.791183154999
+Jalal-Abad oblast,Trade,2022,2,3291.851709070247
+Jalal-Abad oblast,Construction,2022,2,1101.2422257896262
+Jalal-Abad oblast,Mortgage,2022,2,1446.807039165
+Jalal-Abad oblast,Individuals,2022,2,3381.882960340623
+Jalal-Abad oblast,Other loans,2022,2,1261.8285524875437
+Jalal-Abad oblast,Industry,2022,3,672.1374220883781
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2022,3,8263.748033886037
+Jalal-Abad oblast,Trade,2022,3,3446.8613110003776
+Jalal-Abad oblast,Construction,2022,3,1426.4315297672338
+Jalal-Abad oblast,Mortgage,2022,3,1467.502842816406
+Jalal-Abad oblast,Individuals,2022,3,3873.3169552685
+Jalal-Abad oblast,Other loans,2022,3,1339.5190956826298
+Jalal-Abad oblast,Industry,2022,4,675.107278458264
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2022,4,8117.251225114791
+Jalal-Abad oblast,Trade,2022,4,3894.7212084077637
+Jalal-Abad oblast,Construction,2022,4,1431.2686434745624
+Jalal-Abad oblast,Mortgage,2022,4,1546.8137366566
+Jalal-Abad oblast,Individuals,2022,4,4204.261792821354
+Jalal-Abad oblast,Other loans,2022,4,1413.5938054975331
+Jalal-Abad oblast,Industry,2023,1,566.7306925338621
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2023,1,8293.7883329778
+Jalal-Abad oblast,Trade,2023,1,4362.723820640459
+Jalal-Abad oblast,Construction,2023,1,1319.0752545931239
+Jalal-Abad oblast,Mortgage,2023,1,1765.7684667802
+Jalal-Abad oblast,Individuals,2023,1,4329.367280700216
+Jalal-Abad oblast,Other loans,2023,1,1431.8271851457919
+Jalal-Abad oblast,Industry,2023,2,512.1064344780569
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2023,2,9203.144517016255
+Jalal-Abad oblast,Trade,2023,2,4692.720176246955
+Jalal-Abad oblast,Construction,2023,2,1430.9012152103974
+Jalal-Abad oblast,Mortgage,2023,2,1986.8213086710573
+Jalal-Abad oblast,Individuals,2023,2,5070.901720158414
+Jalal-Abad oblast,Other loans,2023,2,1799.5748682017822
+Jalal-Abad oblast,Industry,2023,3,541.346574501614
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2023,3,9533.59755493366
+Jalal-Abad oblast,Trade,2023,3,5362.063416269645
+Jalal-Abad oblast,Construction,2023,3,1527.1593482292244
+Jalal-Abad oblast,Mortgage,2023,3,2203.975672168901
+Jalal-Abad oblast,Individuals,2023,3,6178.174758085002
+Jalal-Abad oblast,Other loans,2023,3,1787.2899588893322
+Jalal-Abad oblast,Industry,2023,4,613.152783547751
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2023,4,9502.488594695722
+Jalal-Abad oblast,Trade,2023,4,5438.487596650257
+Jalal-Abad oblast,Construction,2023,4,1503.7707274681904
+Jalal-Abad oblast,Mortgage,2023,4,2366.041083236214
+Jalal-Abad oblast,Individuals,2023,4,6980.163922302829
+Jalal-Abad oblast,Other loans,2023,4,1793.706182861181
+Jalal-Abad oblast,Industry,2024,1,719.410804580094
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2024,1,9566.105252510759
+Jalal-Abad oblast,Trade,2024,1,5324.081503145657
+Jalal-Abad oblast,Construction,2024,1,1452.389067117916
+Jalal-Abad oblast,Mortgage,2024,1,2486.453494111172
+Jalal-Abad oblast,Individuals,2024,1,7517.669160213313
+Jalal-Abad oblast,Other loans,2024,1,1954.8812241623173
+Jalal-Abad oblast,Industry,2024,2,709.0269222424831
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2024,2,10434.728774963714
+Jalal-Abad oblast,Trade,2024,2,5487.022704392487
+Jalal-Abad oblast,Construction,2024,2,1425.1963262940817
+Jalal-Abad oblast,Mortgage,2024,2,2691.1913873765784
+Jalal-Abad oblast,Individuals,2024,2,8746.8449283036
+Jalal-Abad oblast,Other loans,2024,2,1962.716009634198
+Jalal-Abad oblast,Industry,2024,3,771.1345693579999
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2024,3,10596.605971312
+Jalal-Abad oblast,Trade,2024,3,5652.420447688001
+Jalal-Abad oblast,Construction,2024,3,1493.105722638
+Jalal-Abad oblast,Mortgage,2024,3,2908.801967721999
+Jalal-Abad oblast,Individuals,2024,3,10635.837173674314
+Jalal-Abad oblast,Other loans,2024,3,2266.845299858
+Jalal-Abad oblast,Industry,2024,4,794.5212558100001
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2024,4,10687.541648750015
+Jalal-Abad oblast,Trade,2024,4,5834.870245514999
+Jalal-Abad oblast,Construction,2024,4,1488.4062428099999
+Jalal-Abad oblast,Mortgage,2024,4,3128.4108364000003
+Jalal-Abad oblast,Individuals,2024,4,12567.597296589405
+Jalal-Abad oblast,Other loans,2024,4,2757.897920512
+Jalal-Abad oblast,Industry,2025,1,767.89462364
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2025,1,11162.154797153991
+Jalal-Abad oblast,Trade,2025,1,5844.017630292999
+Jalal-Abad oblast,Construction,2025,1,1473.4961110119998
+Jalal-Abad oblast,Mortgage,2025,1,3300.9995418380013
+Jalal-Abad oblast,Individuals,2025,1,14076.382646330008
+Jalal-Abad oblast,Other loans,2025,1,3354.3536374200007
+Jalal-Abad oblast,Industry,2025,2,844.90169818728
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2025,2,11910.493890523252
+Jalal-Abad oblast,Trade,2025,2,6263.914433981403
+Jalal-Abad oblast,Construction,2025,2,1561.2302197172203
+Jalal-Abad oblast,Mortgage,2025,2,3624.0507164251594
+Jalal-Abad oblast,Individuals,2025,2,15514.4462870991
+Jalal-Abad oblast,Other loans,2025,2,4037.7349350050995
+Jalal-Abad oblast,Industry,2025,3,573.9075282599998
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2025,3,13815.505544870002
+Jalal-Abad oblast,Trade,2025,3,6277.250841020001
+Jalal-Abad oblast,Construction,2025,3,1878.9067905000002
+Jalal-Abad oblast,Mortgage,2025,3,4767.97832033
+Jalal-Abad oblast,Individuals,2025,3,17386.17267171
+Jalal-Abad oblast,Other loans,2025,3,6782.498267019999
+Jalal-Abad oblast,Industry,2025,4,624.3428975626016
+Jalal-Abad oblast,"Agriculture, procurement and  processing",2025,4,13466.268079150654
+Jalal-Abad oblast,Trade,2025,4,6382.602565736065
+Jalal-Abad oblast,Construction,2025,4,2357.6278254215254
+Jalal-Abad oblast,Mortgage,2025,4,5773.692513997135
+Jalal-Abad oblast,Individuals,2025,4,17757.452381177296
+Jalal-Abad oblast,Other loans,2025,4,6924.58217656785
+Issyk-Kul oblast,Industry,2018,1,143.40782145599354
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2018,1,2667.871861947742
+Issyk-Kul oblast,Trade,2018,1,1160.8071809786002
+Issyk-Kul oblast,Construction,2018,1,218.62876465452504
+Issyk-Kul oblast,Mortgage,2018,1,591.5897040438143
+Issyk-Kul oblast,Individuals,2018,1,1049.8542470970685
+Issyk-Kul oblast,Other loans,2018,1,473.1466145753318
+Issyk-Kul oblast,Industry,2018,2,176.72733180919354
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2018,2,3104.2455015673577
+Issyk-Kul oblast,Trade,2018,2,1297.3631712487038
+Issyk-Kul oblast,Construction,2018,2,265.18081067760005
+Issyk-Kul oblast,Mortgage,2018,2,622.0867231217554
+Issyk-Kul oblast,Individuals,2018,2,1142.1222862404184
+Issyk-Kul oblast,Other loans,2018,2,464.4322242441556
+Issyk-Kul oblast,Industry,2018,3,172.51303384094754
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2018,3,3097.7936965235253
+Issyk-Kul oblast,Trade,2018,3,1285.8388297828214
+Issyk-Kul oblast,Construction,2018,3,280.871020978675
+Issyk-Kul oblast,Mortgage,2018,3,645.4667211473617
+Issyk-Kul oblast,Individuals,2018,3,1223.586746418666
+Issyk-Kul oblast,Other loans,2018,3,453.1100263590181
+Issyk-Kul oblast,Industry,2018,4,156.53155660169355
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2018,4,3015.170597561422
+Issyk-Kul oblast,Trade,2018,4,1327.609264720636
+Issyk-Kul oblast,Construction,2018,4,277.07734883899997
+Issyk-Kul oblast,Mortgage,2018,4,663.9329225510685
+Issyk-Kul oblast,Individuals,2018,4,1289.675874558003
+Issyk-Kul oblast,Other loans,2018,4,476.1204360513301
+Issyk-Kul oblast,Industry,2019,1,146.72987357985002
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2019,1,3078.405584149742
+Issyk-Kul oblast,Trade,2019,1,1348.5831997295304
+Issyk-Kul oblast,Construction,2019,1,276.8575384290882
+Issyk-Kul oblast,Mortgage,2019,1,686.5290610753531
+Issyk-Kul oblast,Individuals,2019,1,1277.3790106956278
+Issyk-Kul oblast,Other loans,2019,1,470.46421871619947
+Issyk-Kul oblast,Industry,2019,2,219.77168393
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2019,2,3448.3267735605586
+Issyk-Kul oblast,Trade,2019,2,1523.4587177595768
+Issyk-Kul oblast,Construction,2019,2,339.116968509808
+Issyk-Kul oblast,Mortgage,2019,2,718.3471765078721
+Issyk-Kul oblast,Individuals,2019,2,1500.432081529257
+Issyk-Kul oblast,Other loans,2019,2,496.0914399202479
+Issyk-Kul oblast,Industry,2019,3,216.40458917788874
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2019,3,3392.5774611220972
+Issyk-Kul oblast,Trade,2019,3,1555.9173663558677
+Issyk-Kul oblast,Construction,2019,3,358.136751857067
+Issyk-Kul oblast,Mortgage,2019,3,786.741894545355
+Issyk-Kul oblast,Individuals,2019,3,1578.102195461049
+Issyk-Kul oblast,Other loans,2019,3,459.45019184709497
+Issyk-Kul oblast,Industry,2019,4,187.57734349
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2019,4,3042.141733490136
+Issyk-Kul oblast,Trade,2019,4,1601.764025208347
+Issyk-Kul oblast,Construction,2019,4,322.953072246208
+Issyk-Kul oblast,Mortgage,2019,4,677.6856065132879
+Issyk-Kul oblast,Individuals,2019,4,1658.0515201337248
+Issyk-Kul oblast,Other loans,2019,4,480.51326552439804
+Issyk-Kul oblast,Industry,2020,1,196.38250188
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2020,1,2937.763408869979
+Issyk-Kul oblast,Trade,2020,1,1639.9559242194039
+Issyk-Kul oblast,Construction,2020,1,327.65440546499997
+Issyk-Kul oblast,Mortgage,2020,1,717.5882840312
+Issyk-Kul oblast,Individuals,2020,1,1672.1380254724008
+Issyk-Kul oblast,Other loans,2020,1,481.2424009471001
+Issyk-Kul oblast,Industry,2020,2,223.24788928
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2020,2,3305.8010284664597
+Issyk-Kul oblast,Trade,2020,2,1666.991264395219
+Issyk-Kul oblast,Construction,2020,2,329.63812819824
+Issyk-Kul oblast,Mortgage,2020,2,709.918618734733
+Issyk-Kul oblast,Individuals,2020,2,1625.433477234619
+Issyk-Kul oblast,Other loans,2020,2,462.41337478100013
+Issyk-Kul oblast,Industry,2020,3,232.43197407999997
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2020,3,3404.7654671144282
+Issyk-Kul oblast,Trade,2020,3,1713.487046587317
+Issyk-Kul oblast,Construction,2020,3,326.4899965439999
+Issyk-Kul oblast,Mortgage,2020,3,769.156544022
+Issyk-Kul oblast,Individuals,2020,3,1637.1839475040013
+Issyk-Kul oblast,Other loans,2020,3,440.52454102400003
+Issyk-Kul oblast,Industry,2020,4,232.7045994
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2020,4,3288.5134646016113
+Issyk-Kul oblast,Trade,2020,4,1614.1631506557972
+Issyk-Kul oblast,Construction,2020,4,310.96260799836404
+Issyk-Kul oblast,Mortgage,2020,4,764.5839967189038
+Issyk-Kul oblast,Individuals,2020,4,1657.6683815409785
+Issyk-Kul oblast,Other loans,2020,4,483.53259746569415
+Issyk-Kul oblast,Industry,2021,1,314.5262996086164
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2021,1,3737.8297444737727
+Issyk-Kul oblast,Trade,2021,1,1600.391810271681
+Issyk-Kul oblast,Construction,2021,1,412.90734557042003
+Issyk-Kul oblast,Mortgage,2021,1,889.361801924896
+Issyk-Kul oblast,Individuals,2021,1,1794.6315628380678
+Issyk-Kul oblast,Other loans,2021,1,522.5245211006127
+Issyk-Kul oblast,Industry,2021,2,321.4246178449364
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2021,2,4173.920493051909
+Issyk-Kul oblast,Trade,2021,2,1790.1158444052421
+Issyk-Kul oblast,Construction,2021,2,429.858341525012
+Issyk-Kul oblast,Mortgage,2021,2,978.536323144766
+Issyk-Kul oblast,Individuals,2021,2,2066.7485394710848
+Issyk-Kul oblast,Other loans,2021,2,588.8734078355566
+Issyk-Kul oblast,Industry,2021,3,324.11050565798644
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2021,3,4153.953048076179
+Issyk-Kul oblast,Trade,2021,3,1727.0538900923698
+Issyk-Kul oblast,Construction,2021,3,441.5433290971403
+Issyk-Kul oblast,Mortgage,2021,3,1016.116263008338
+Issyk-Kul oblast,Individuals,2021,3,2228.829506967231
+Issyk-Kul oblast,Other loans,2021,3,568.9582675092624
+Issyk-Kul oblast,Industry,2021,4,279.724362946133
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2021,4,3567.9155312883063
+Issyk-Kul oblast,Trade,2021,4,1716.5215504264395
+Issyk-Kul oblast,Construction,2021,4,316.258052848906
+Issyk-Kul oblast,Mortgage,2021,4,909.1427522937302
+Issyk-Kul oblast,Individuals,2021,4,2198.2823573351966
+Issyk-Kul oblast,Other loans,2021,4,580.8152688842762
+Issyk-Kul oblast,Industry,2022,1,275.389584098433
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2022,1,3716.89223283978
+Issyk-Kul oblast,Trade,2022,1,1614.6025827219637
+Issyk-Kul oblast,Construction,2022,1,310.5376595650699
+Issyk-Kul oblast,Mortgage,2022,1,885.441797889794
+Issyk-Kul oblast,Individuals,2022,1,2148.860412437838
+Issyk-Kul oblast,Other loans,2022,1,663.015138491487
+Issyk-Kul oblast,Industry,2022,2,400.767137634907
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2022,2,4578.924558069678
+Issyk-Kul oblast,Trade,2022,2,1695.5084569698772
+Issyk-Kul oblast,Construction,2022,2,452.109724435
+Issyk-Kul oblast,Mortgage,2022,2,1271.9408624798068
+Issyk-Kul oblast,Individuals,2022,2,2828.8130808712517
+Issyk-Kul oblast,Other loans,2022,2,709.5751239697131
+Issyk-Kul oblast,Industry,2022,3,623.860950292365
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2022,3,4567.592920510876
+Issyk-Kul oblast,Trade,2022,3,1765.8899684579667
+Issyk-Kul oblast,Construction,2022,3,443.9285731524471
+Issyk-Kul oblast,Mortgage,2022,3,1378.223514953523
+Issyk-Kul oblast,Individuals,2022,3,3113.277241244023
+Issyk-Kul oblast,Other loans,2022,3,654.9615643568881
+Issyk-Kul oblast,Industry,2022,4,640.6020851480689
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2022,4,4509.101221234514
+Issyk-Kul oblast,Trade,2022,4,1842.7147265898088
+Issyk-Kul oblast,Construction,2022,4,437.72210750039994
+Issyk-Kul oblast,Mortgage,2022,4,1489.553710068856
+Issyk-Kul oblast,Individuals,2022,4,3317.424651591556
+Issyk-Kul oblast,Other loans,2022,4,660.7157834105919
+Issyk-Kul oblast,Industry,2023,1,506.6632081896
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2023,1,4721.111523344604
+Issyk-Kul oblast,Trade,2023,1,2177.9627546281663
+Issyk-Kul oblast,Construction,2023,1,422.15597371499996
+Issyk-Kul oblast,Mortgage,2023,1,1685.7827237558
+Issyk-Kul oblast,Individuals,2023,1,3478.017729712202
+Issyk-Kul oblast,Other loans,2023,1,643.9039985911121
+Issyk-Kul oblast,Industry,2023,2,577.611257701507
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2023,2,5236.031718201718
+Issyk-Kul oblast,Trade,2023,2,2298.209614824154
+Issyk-Kul oblast,Construction,2023,2,428.945677250274
+Issyk-Kul oblast,Mortgage,2023,2,1912.3017276928017
+Issyk-Kul oblast,Individuals,2023,2,4022.2914739479497
+Issyk-Kul oblast,Other loans,2023,2,763.151490330814
+Issyk-Kul oblast,Industry,2023,3,353.76813352807886
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2023,3,5305.1222683178075
+Issyk-Kul oblast,Trade,2023,3,2317.597075559435
+Issyk-Kul oblast,Construction,2023,3,411.0563022419
+Issyk-Kul oblast,Mortgage,2023,3,2111.4252803356003
+Issyk-Kul oblast,Individuals,2023,3,4784.7509879372
+Issyk-Kul oblast,Other loans,2023,3,777.8808546000479
+Issyk-Kul oblast,Industry,2023,4,323.7414209839059
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2023,4,5327.751815977605
+Issyk-Kul oblast,Trade,2023,4,2446.8613653789444
+Issyk-Kul oblast,Construction,2023,4,398.01297097878904
+Issyk-Kul oblast,Mortgage,2023,4,2233.3691837928873
+Issyk-Kul oblast,Individuals,2023,4,5250.953532485777
+Issyk-Kul oblast,Other loans,2023,4,819.8960577612211
+Issyk-Kul oblast,Industry,2024,1,333.70654479805097
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2024,1,5364.131948579199
+Issyk-Kul oblast,Trade,2024,1,2428.927752616769
+Issyk-Kul oblast,Construction,2024,1,433.29358282576396
+Issyk-Kul oblast,Mortgage,2024,1,2374.921589108641
+Issyk-Kul oblast,Individuals,2024,1,5588.467823347304
+Issyk-Kul oblast,Other loans,2024,1,895.1880727376711
+Issyk-Kul oblast,Industry,2024,2,349.18744969841026
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2024,2,5905.457193771346
+Issyk-Kul oblast,Trade,2024,2,2636.944742785052
+Issyk-Kul oblast,Construction,2024,2,493.760089717148
+Issyk-Kul oblast,Mortgage,2024,2,2686.6141008548434
+Issyk-Kul oblast,Individuals,2024,2,6495.906727747388
+Issyk-Kul oblast,Other loans,2024,2,925.4616443549719
+Issyk-Kul oblast,Industry,2024,3,310.2383024570595
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2024,3,6009.004734937
+Issyk-Kul oblast,Trade,2024,3,2700.1591694268177
+Issyk-Kul oblast,Construction,2024,3,524.072778228
+Issyk-Kul oblast,Mortgage,2024,3,2905.49940464
+Issyk-Kul oblast,Individuals,2024,3,7526.049059612009
+Issyk-Kul oblast,Other loans,2024,3,1078.40448028
+Issyk-Kul oblast,Industry,2024,4,340.79551427110795
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2024,4,5805.716704142905
+Issyk-Kul oblast,Trade,2024,4,2875.5359270736944
+Issyk-Kul oblast,Construction,2024,4,631.34147798
+Issyk-Kul oblast,Mortgage,2024,4,3222.2998238299997
+Issyk-Kul oblast,Individuals,2024,4,8869.158583470013
+Issyk-Kul oblast,Other loans,2024,4,1337.53111964
+Issyk-Kul oblast,Industry,2025,1,338.50653621913597
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2025,1,5815.247675499895
+Issyk-Kul oblast,Trade,2025,1,3099.324244477936
+Issyk-Kul oblast,Construction,2025,1,675.1709073899999
+Issyk-Kul oblast,Mortgage,2025,1,3420.5438174539986
+Issyk-Kul oblast,Individuals,2025,1,10104.124280261998
+Issyk-Kul oblast,Other loans,2025,1,1725.3968544440004
+Issyk-Kul oblast,Industry,2025,2,693.4729958820769
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2025,2,6391.2884074303865
+Issyk-Kul oblast,Trade,2025,2,3344.3630654353537
+Issyk-Kul oblast,Construction,2025,2,819.1197839097599
+Issyk-Kul oblast,Mortgage,2025,2,3703.61026872924
+Issyk-Kul oblast,Individuals,2025,2,11367.743625159177
+Issyk-Kul oblast,Other loans,2025,2,2265.4619245331196
+Issyk-Kul oblast,Industry,2025,3,440.15345406999995
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2025,3,6806.6923621800015
+Issyk-Kul oblast,Trade,2025,3,2744.1538826799997
+Issyk-Kul oblast,Construction,2025,3,1036.68212208
+Issyk-Kul oblast,Mortgage,2025,3,4067.5374078
+Issyk-Kul oblast,Individuals,2025,3,11427.656530780001
+Issyk-Kul oblast,Other loans,2025,3,3646.87782902
+Issyk-Kul oblast,Industry,2025,4,522.511837927826
+Issyk-Kul oblast,"Agriculture, procurement and  processing",2025,4,7054.506359521641
+Issyk-Kul oblast,Trade,2025,4,2935.4236086923343
+Issyk-Kul oblast,Construction,2025,4,993.5147869656313
+Issyk-Kul oblast,Mortgage,2025,4,4485.40007596492
+Issyk-Kul oblast,Individuals,2025,4,11830.708858776057
+Issyk-Kul oblast,Other loans,2025,4,4063.779764442459
+Naryn oblast,Industry,2018,1,55.163866606595754
+Naryn oblast,"Agriculture, procurement and  processing",2018,1,1894.776228103761
+Naryn oblast,Trade,2018,1,244.89494318269118
+Naryn oblast,Construction,2018,1,44.8190406933
+Naryn oblast,Mortgage,2018,1,183.68610596568
+Naryn oblast,Individuals,2018,1,509.0623586418543
+Naryn oblast,Other loans,2018,1,111.56874940582678
+Naryn oblast,Industry,2018,2,83.55147574123404
+Naryn oblast,"Agriculture, procurement and  processing",2018,2,2180.772602472939
+Naryn oblast,Trade,2018,2,254.1021392658952
+Naryn oblast,Construction,2018,2,55.29121909
+Naryn oblast,Mortgage,2018,2,193.7127996102
+Naryn oblast,Individuals,2018,2,556.6865931061242
+Naryn oblast,Other loans,2018,2,155.17997216334922
+Naryn oblast,Industry,2018,3,86.22212779042553
+Naryn oblast,"Agriculture, procurement and  processing",2018,3,2176.4599311145766
+Naryn oblast,Trade,2018,3,255.2148542511078
+Naryn oblast,Construction,2018,3,48.072933809999995
+Naryn oblast,Mortgage,2018,3,196.187366463383
+Naryn oblast,Individuals,2018,3,640.3963912538168
+Naryn oblast,Other loans,2018,3,179.1968761159925
+Naryn oblast,Industry,2018,4,79.76303319042553
+Naryn oblast,"Agriculture, procurement and  processing",2018,4,2124.896212506188
+Naryn oblast,Trade,2018,4,277.15584048022794
+Naryn oblast,Construction,2018,4,45.51065275
+Naryn oblast,Mortgage,2018,4,215.780246514
+Naryn oblast,Individuals,2018,4,697.330471801746
+Naryn oblast,Other loans,2018,4,181.19939768513598
+Naryn oblast,Industry,2019,1,85.35676002881851
+Naryn oblast,"Agriculture, procurement and  processing",2019,1,2157.26589640998
+Naryn oblast,Trade,2019,1,273.56745267883935
+Naryn oblast,Construction,2019,1,41.662918924847425
+Naryn oblast,Mortgage,2019,1,227.89668383381027
+Naryn oblast,Individuals,2019,1,686.5855163962539
+Naryn oblast,Other loans,2019,1,181.92284644690818
+Naryn oblast,Industry,2019,2,117.84867701
+Naryn oblast,"Agriculture, procurement and  processing",2019,2,2452.730737368999
+Naryn oblast,Trade,2019,2,302.390132388072
+Naryn oblast,Construction,2019,2,61.99183833
+Naryn oblast,Mortgage,2019,2,248.15402354857602
+Naryn oblast,Individuals,2019,2,803.18940032
+Naryn oblast,Other loans,2019,2,176.597278777856
+Naryn oblast,Industry,2019,3,121.17531876468085
+Naryn oblast,"Agriculture, procurement and  processing",2019,3,2526.94541282059
+Naryn oblast,Trade,2019,3,314.46580130851595
+Naryn oblast,Construction,2019,3,81.34175673000001
+Naryn oblast,Mortgage,2019,3,253.603550835538
+Naryn oblast,Individuals,2019,3,895.989616635
+Naryn oblast,Other loans,2019,3,189.156921993449
+Naryn oblast,Industry,2019,4,398.17169775868086
+Naryn oblast,"Agriculture, procurement and  processing",2019,4,3587.7171749353997
+Naryn oblast,Trade,2019,4,407.33659464676504
+Naryn oblast,Construction,2019,4,104.72306217000002
+Naryn oblast,Mortgage,2019,4,300.330799266538
+Naryn oblast,Individuals,2019,4,1115.011578187
+Naryn oblast,Other loans,2019,4,221.010401444022
+Naryn oblast,Industry,2020,1,388.269282821
+Naryn oblast,"Agriculture, procurement and  processing",2020,1,3564.1028689702243
+Naryn oblast,Trade,2020,1,437.6316489572
+Naryn oblast,Construction,2020,1,98.44328342
+Naryn oblast,Mortgage,2020,1,311.2717141342
+Naryn oblast,Individuals,2020,1,1081.689334308001
+Naryn oblast,Other loans,2020,1,201.5212715703299
+Naryn oblast,Industry,2020,2,433.882561638
+Naryn oblast,"Agriculture, procurement and  processing",2020,2,4009.0050679799965
+Naryn oblast,Trade,2020,2,419.56669637899995
+Naryn oblast,Construction,2020,2,98.22369203999999
+Naryn oblast,Mortgage,2020,2,319.5116699149999
+Naryn oblast,Individuals,2020,2,1045.12345393
+Naryn oblast,Other loans,2020,2,201.64022597499988
+Naryn oblast,Industry,2020,3,460.308943322
+Naryn oblast,"Agriculture, procurement and  processing",2020,3,4185.4430713779275
+Naryn oblast,Trade,2020,3,453.1906819800001
+Naryn oblast,Construction,2020,3,96.46116546
+Naryn oblast,Mortgage,2020,3,344.29502136400004
+Naryn oblast,Individuals,2020,3,1092.1534540799998
+Naryn oblast,Other loans,2020,3,205.30943398430492
+Naryn oblast,Industry,2020,4,433.6154451160001
+Naryn oblast,"Agriculture, procurement and  processing",2020,4,3995.650788837739
+Naryn oblast,Trade,2020,4,456.28342717351603
+Naryn oblast,Construction,2020,4,90.94039498
+Naryn oblast,Mortgage,2020,4,377.6940936298235
+Naryn oblast,Individuals,2020,4,1100.015783046073
+Naryn oblast,Other loans,2020,4,208.17111828167592
+Naryn oblast,Industry,2021,1,158.19319632032372
+Naryn oblast,"Agriculture, procurement and  processing",2021,1,2957.839640476191
+Naryn oblast,Trade,2021,1,429.4078880762655
+Naryn oblast,Construction,2021,1,91.8754881987494
+Naryn oblast,Mortgage,2021,1,334.70078605837244
+Naryn oblast,Individuals,2021,1,1004.2741512701834
+Naryn oblast,Other loans,2021,1,169.9098554048397
+Naryn oblast,Industry,2021,2,153.16783168858373
+Naryn oblast,"Agriculture, procurement and  processing",2021,2,3246.9497238579856
+Naryn oblast,Trade,2021,2,452.9707578152575
+Naryn oblast,Construction,2021,2,102.5417220472294
+Naryn oblast,Mortgage,2021,2,375.43006080388517
+Naryn oblast,Individuals,2021,2,1103.862799989059
+Naryn oblast,Other loans,2021,2,170.5981343205758
+Naryn oblast,Industry,2021,3,156.4802987581437
+Naryn oblast,"Agriculture, procurement and  processing",2021,3,3154.935763773214
+Naryn oblast,Trade,2021,3,494.6352800369084
+Naryn oblast,Construction,2021,3,113.1648893049494
+Naryn oblast,Mortgage,2021,3,403.8590473985164
+Naryn oblast,Individuals,2021,3,1235.5568113826994
+Naryn oblast,Other loans,2021,3,169.0350576496558
+Naryn oblast,Industry,2021,4,437.36274649771
+Naryn oblast,"Agriculture, procurement and  processing",2021,4,4238.258150680294
+Naryn oblast,Trade,2021,4,594.901076118772
+Naryn oblast,Construction,2021,4,102.86800526
+Naryn oblast,Mortgage,2021,4,460.7447674029841
+Naryn oblast,Individuals,2021,4,1363.7142722400001
+Naryn oblast,Other loans,2021,4,182.27951260227198
+Naryn oblast,Industry,2022,1,428.09491793622
+Naryn oblast,"Agriculture, procurement and  processing",2022,1,4556.085661471442
+Naryn oblast,Trade,2022,1,651.632131448495
+Naryn oblast,Construction,2022,1,106.60804373567
+Naryn oblast,Mortgage,2022,1,466.40799036
+Naryn oblast,Individuals,2022,1,1332.636806309999
+Naryn oblast,Other loans,2022,1,191.41559445790998
+Naryn oblast,Industry,2022,2,192.99563210000002
+Naryn oblast,"Agriculture, procurement and  processing",2022,2,3488.2958231787534
+Naryn oblast,Trade,2022,2,564.435058344305
+Naryn oblast,Construction,2022,2,139.033544937583
+Naryn oblast,Mortgage,2022,2,439.09513445
+Naryn oblast,Individuals,2022,2,1538.7328751649998
+Naryn oblast,Other loans,2022,2,184.82462838024998
+Naryn oblast,Industry,2022,3,210.11317196964998
+Naryn oblast,"Agriculture, procurement and  processing",2022,3,3446.3452136091432
+Naryn oblast,Trade,2022,3,607.152327852049
+Naryn oblast,Construction,2022,3,127.551323880275
+Naryn oblast,Mortgage,2022,3,472.41737599000004
+Naryn oblast,Individuals,2022,3,1858.9100265145746
+Naryn oblast,Other loans,2022,3,181.46162075733403
+Naryn oblast,Industry,2022,4,230.61857187228003
+Naryn oblast,"Agriculture, procurement and  processing",2022,4,3337.677138477369
+Naryn oblast,Trade,2022,4,641.1944889628911
+Naryn oblast,Construction,2022,4,111.657827739405
+Naryn oblast,Mortgage,2022,4,523.33123261
+Naryn oblast,Individuals,2022,4,2023.1261317904
+Naryn oblast,Other loans,2022,4,189.26072127315706
+Naryn oblast,Industry,2023,1,157.58493468580002
+Naryn oblast,"Agriculture, procurement and  processing",2023,1,3140.960937253281
+Naryn oblast,Trade,2023,1,777.7518047254881
+Naryn oblast,Construction,2023,1,96.34280848
+Naryn oblast,Mortgage,2023,1,634.7467383
+Naryn oblast,Individuals,2023,1,2012.134000341601
+Naryn oblast,Other loans,2023,1,178.36809551574203
+Naryn oblast,Industry,2023,2,196.18976172398
+Naryn oblast,"Agriculture, procurement and  processing",2023,2,3507.514128620526
+Naryn oblast,Trade,2023,2,797.158496747298
+Naryn oblast,Construction,2023,2,93.356295237624
+Naryn oblast,Mortgage,2023,2,664.1669861000001
+Naryn oblast,Individuals,2023,2,2221.866691775764
+Naryn oblast,Other loans,2023,2,178.68402730940997
+Naryn oblast,Industry,2023,3,210.39734702060002
+Naryn oblast,"Agriculture, procurement and  processing",2023,3,3538.889247555111
+Naryn oblast,Trade,2023,3,843.1359924462502
+Naryn oblast,Construction,2023,3,94.46917615482101
+Naryn oblast,Mortgage,2023,3,758.4610452200001
+Naryn oblast,Individuals,2023,3,2569.5911423399994
+Naryn oblast,Other loans,2023,3,178.09626190549602
+Naryn oblast,Industry,2023,4,222.53322537496
+Naryn oblast,"Agriculture, procurement and  processing",2023,4,3499.816886960949
+Naryn oblast,Trade,2023,4,878.6576481654408
+Naryn oblast,Construction,2023,4,81.41512033758
+Naryn oblast,Mortgage,2023,4,816.60506387
+Naryn oblast,Individuals,2023,4,2772.881214759999
+Naryn oblast,Other loans,2023,4,203.95574895133603
+Naryn oblast,Industry,2024,1,225.38283345642
+Naryn oblast,"Agriculture, procurement and  processing",2024,1,3497.2740529558055
+Naryn oblast,Trade,2024,1,849.4514280713339
+Naryn oblast,Construction,2024,1,83.83360497938101
+Naryn oblast,Mortgage,2024,1,868.05880734
+Naryn oblast,Individuals,2024,1,2888.0781873104793
+Naryn oblast,Other loans,2024,1,209.40634227200002
+Naryn oblast,Industry,2024,2,227.28917779999998
+Naryn oblast,"Agriculture, procurement and  processing",2024,2,3861.173821977703
+Naryn oblast,Trade,2024,2,867.3611405858456
+Naryn oblast,Construction,2024,2,107.51451553713001
+Naryn oblast,Mortgage,2024,2,911.0227625
+Naryn oblast,Individuals,2024,2,3176.8382128912426
+Naryn oblast,Other loans,2024,2,266.46515666
+Naryn oblast,Industry,2024,3,229.59522966
+Naryn oblast,"Agriculture, procurement and  processing",2024,3,3821.450550690001
+Naryn oblast,Trade,2024,3,838.1407499069276
+Naryn oblast,Construction,2024,3,127.47351862999999
+Naryn oblast,Mortgage,2024,3,998.8501858999999
+Naryn oblast,Individuals,2024,3,3680.840307285999
+Naryn oblast,Other loans,2024,3,331.49393053999995
+Naryn oblast,Industry,2024,4,242.08179949000004
+Naryn oblast,"Agriculture, procurement and  processing",2024,4,3730.008902177999
+Naryn oblast,Trade,2024,4,885.3559401130399
+Naryn oblast,Construction,2024,4,118.60713428000003
+Naryn oblast,Mortgage,2024,4,1055.8686812099997
+Naryn oblast,Individuals,2024,4,4140.0000694400005
+Naryn oblast,Other loans,2024,4,450.31623395
+Naryn oblast,Industry,2025,1,242.37661225000002
+Naryn oblast,"Agriculture, procurement and  processing",2025,1,3752.387132966
+Naryn oblast,Trade,2025,1,974.00095389941
+Naryn oblast,Construction,2025,1,112.17145640000001
+Naryn oblast,Mortgage,2025,1,1137.48452733
+Naryn oblast,Individuals,2025,1,4534.374803299998
+Naryn oblast,Other loans,2025,1,543.7514737
+Naryn oblast,Industry,2025,2,244.28173320102
+Naryn oblast,"Agriculture, procurement and  processing",2025,2,4112.583021240001
+Naryn oblast,Trade,2025,2,1104.60880989421
+Naryn oblast,Construction,2025,2,126.74567248
+Naryn oblast,Mortgage,2025,2,1238.27072551
+Naryn oblast,Individuals,2025,2,5007.45807446
+Naryn oblast,Other loans,2025,2,759.7761898299999
+Naryn oblast,Industry,2025,3,127.55031404
+Naryn oblast,"Agriculture, procurement and  processing",2025,3,4515.20162152
+Naryn oblast,Trade,2025,3,761.6464467899999
+Naryn oblast,Construction,2025,3,220.7426126
+Naryn oblast,Mortgage,2025,3,1554.64663254
+Naryn oblast,Individuals,2025,3,5244.579813969999
+Naryn oblast,Other loans,2025,3,1752.99015239
+Naryn oblast,Industry,2025,4,113.680105090964
+Naryn oblast,"Agriculture, procurement and  processing",2025,4,4622.997557631548
+Naryn oblast,Trade,2025,4,779.6897839412729
+Naryn oblast,Construction,2025,4,207.68401739000004
+Naryn oblast,Mortgage,2025,4,1721.0288312800012
+Naryn oblast,Individuals,2025,4,5462.353865939976
+Naryn oblast,Other loans,2025,4,1854.418342833205
+Osh oblast,Industry,2018,1,756.4372267691333
+Osh oblast,"Agriculture, procurement and  processing",2018,1,3910.8040971090354
+Osh oblast,Trade,2018,1,3970.559492606554
+Osh oblast,Construction,2018,1,522.523318163825
+Osh oblast,Mortgage,2018,1,1671.1477627013599
+Osh oblast,Individuals,2018,1,1554.260584393562
+Osh oblast,Other loans,2018,1,1267.609656024891
+Osh oblast,Industry,2018,2,689.2886454815999
+Osh oblast,"Agriculture, procurement and  processing",2018,2,4307.006360446801
+Osh oblast,Trade,2018,2,4029.231866388586
+Osh oblast,Construction,2018,2,568.6896524258001
+Osh oblast,Mortgage,2018,2,1760.6738676795997
+Osh oblast,Individuals,2018,2,1716.711194371012
+Osh oblast,Other loans,2018,2,1448.1585917356213
+Osh oblast,Industry,2018,3,700.4432321899161
+Osh oblast,"Agriculture, procurement and  processing",2018,3,4299.223875007697
+Osh oblast,Trade,2018,3,3984.3936401878127
+Osh oblast,Construction,2018,3,606.5236550259689
+Osh oblast,Mortgage,2018,3,1766.199965531776
+Osh oblast,Individuals,2018,3,1911.2190327381752
+Osh oblast,Other loans,2018,3,1522.542471329959
+Osh oblast,Industry,2018,4,739.0508084595001
+Osh oblast,"Agriculture, procurement and  processing",2018,4,4221.472526494621
+Osh oblast,Trade,2018,4,4271.213667976583
+Osh oblast,Construction,2018,4,681.5373383940001
+Osh oblast,Mortgage,2018,4,1901.843863856
+Osh oblast,Individuals,2018,4,1986.1706874796923
+Osh oblast,Other loans,2018,4,1485.8450537227461
+Osh oblast,Industry,2019,1,777.2145151983812
+Osh oblast,"Agriculture, procurement and  processing",2019,1,4385.542768742743
+Osh oblast,Trade,2019,1,4422.418336840872
+Osh oblast,Construction,2019,1,658.0199207832633
+Osh oblast,Mortgage,2019,1,1974.428723629575
+Osh oblast,Individuals,2019,1,1930.268214041707
+Osh oblast,Other loans,2019,1,1521.143108784649
+Osh oblast,Industry,2019,2,832.059682484736
+Osh oblast,"Agriculture, procurement and  processing",2019,2,4906.48583074809
+Osh oblast,Trade,2019,2,4491.480374909292
+Osh oblast,Construction,2019,2,927.0190867416879
+Osh oblast,Mortgage,2019,2,2006.511312609384
+Osh oblast,Individuals,2019,2,2047.8264192112506
+Osh oblast,Other loans,2019,2,1746.936622907492
+Osh oblast,Industry,2019,3,776.245359797298
+Osh oblast,"Agriculture, procurement and  processing",2019,3,5150.787759447775
+Osh oblast,Trade,2019,3,4813.758767979281
+Osh oblast,Construction,2019,3,986.3473389990049
+Osh oblast,Mortgage,2019,3,2103.9730174990286
+Osh oblast,Individuals,2019,3,2155.2771825791283
+Osh oblast,Other loans,2019,3,1774.564922944358
+Osh oblast,Industry,2019,4,1052.942427624616
+Osh oblast,"Agriculture, procurement and  processing",2019,4,5231.211350624738
+Osh oblast,Trade,2019,4,4593.984028814864
+Osh oblast,Construction,2019,4,986.5907284507501
+Osh oblast,Mortgage,2019,4,2158.5603324631834
+Osh oblast,Individuals,2019,4,2281.4412853026115
+Osh oblast,Other loans,2019,4,1809.5582541135182
+Osh oblast,Industry,2020,1,1097.9204926299
+Osh oblast,"Agriculture, procurement and  processing",2020,1,5159.3230676897965
+Osh oblast,Trade,2020,1,5047.200794355498
+Osh oblast,Construction,2020,1,1075.5745253359
+Osh oblast,Mortgage,2020,1,2192.5504202884
+Osh oblast,Individuals,2020,1,2223.541442391001
+Osh oblast,Other loans,2020,1,1813.1204165141
+Osh oblast,Industry,2020,2,1196.439070009404
+Osh oblast,"Agriculture, procurement and  processing",2020,2,5539.908445629994
+Osh oblast,Trade,2020,2,4966.731270816901
+Osh oblast,Construction,2020,2,1105.512759749016
+Osh oblast,Mortgage,2020,2,2021.1514932080488
+Osh oblast,Individuals,2020,2,2119.66982707693
+Osh oblast,Other loans,2020,2,1894.70257889965
+Osh oblast,Industry,2020,3,1355.280936768
+Osh oblast,"Agriculture, procurement and  processing",2020,3,5569.897837903999
+Osh oblast,Trade,2020,3,4894.700467082999
+Osh oblast,Construction,2020,3,1167.0909918779998
+Osh oblast,Mortgage,2020,3,2054.96044858
+Osh oblast,Individuals,2020,3,2145.46206482
+Osh oblast,Other loans,2020,3,1950.1796666129999
+Osh oblast,Industry,2020,4,1392.51125820151
+Osh oblast,"Agriculture, procurement and  processing",2020,4,5530.758766710165
+Osh oblast,Trade,2020,4,4976.067986563586
+Osh oblast,Construction,2020,4,1228.2611913925882
+Osh oblast,Mortgage,2020,4,2088.4951215838473
+Osh oblast,Individuals,2020,4,2156.707055740392
+Osh oblast,Other loans,2020,4,2001.088413837942
+Osh oblast,Industry,2021,1,1402.6668038886
+Osh oblast,"Agriculture, procurement and  processing",2021,1,5880.131741527653
+Osh oblast,Trade,2021,1,5136.939656872856
+Osh oblast,Construction,2021,1,1222.0133744216334
+Osh oblast,Mortgage,2021,1,2101.201268505125
+Osh oblast,Individuals,2021,1,2134.502902910642
+Osh oblast,Other loans,2021,1,1929.9959647882042
+Osh oblast,Industry,2021,2,1539.5286869320869
+Osh oblast,"Agriculture, procurement and  processing",2021,2,6384.1216981156185
+Osh oblast,Trade,2021,2,5544.464568425912
+Osh oblast,Construction,2021,2,1311.6117497112375
+Osh oblast,Mortgage,2021,2,2165.6474826917097
+Osh oblast,Individuals,2021,2,2357.654675135693
+Osh oblast,Other loans,2021,2,1987.8069776447921
+Osh oblast,Industry,2021,3,1532.7127662060097
+Osh oblast,"Agriculture, procurement and  processing",2021,3,6488.778740053442
+Osh oblast,Trade,2021,3,6175.659624330293
+Osh oblast,Construction,2021,3,1343.5635822632426
+Osh oblast,Mortgage,2021,3,2202.5339752252553
+Osh oblast,Individuals,2021,3,2732.9267104016153
+Osh oblast,Other loans,2021,3,1956.5852464147129
+Osh oblast,Industry,2021,4,1635.0090093002289
+Osh oblast,"Agriculture, procurement and  processing",2021,4,6442.926335271637
+Osh oblast,Trade,2021,4,6201.087522204836
+Osh oblast,Construction,2021,4,1545.980523419856
+Osh oblast,Mortgage,2021,4,2305.915465696032
+Osh oblast,Individuals,2021,4,2975.166270535207
+Osh oblast,Other loans,2021,4,2040.3638922407613
+Osh oblast,Industry,2022,1,1645.2498814333649
+Osh oblast,"Agriculture, procurement and  processing",2022,1,6723.535271641808
+Osh oblast,Trade,2022,1,6050.236494445425
+Osh oblast,Construction,2022,1,1500.58982342016
+Osh oblast,Mortgage,2022,1,2282.7243774542303
+Osh oblast,Individuals,2022,1,3027.0367618537202
+Osh oblast,Other loans,2022,1,2065.804812652728
+Osh oblast,Industry,2022,2,1761.7925252756252
+Osh oblast,"Agriculture, procurement and  processing",2022,2,7756.532778904696
+Osh oblast,Trade,2022,2,6308.93469793121
+Osh oblast,Construction,2022,2,1773.5103635250018
+Osh oblast,Mortgage,2022,2,2379.304143785
+Osh oblast,Individuals,2022,2,3676.02085328855
+Osh oblast,Other loans,2022,2,2232.806011451411
+Osh oblast,Industry,2022,3,1810.6454637786724
+Osh oblast,"Agriculture, procurement and  processing",2022,3,7859.37906394944
+Osh oblast,Trade,2022,3,6845.889504355315
+Osh oblast,Construction,2022,3,1698.5466800143831
+Osh oblast,Mortgage,2022,3,2511.223026333159
+Osh oblast,Individuals,2022,3,4308.849034808727
+Osh oblast,Other loans,2022,3,2181.858400266691
+Osh oblast,Industry,2022,4,1952.9538534025196
+Osh oblast,"Agriculture, procurement and  processing",2022,4,7921.952982874818
+Osh oblast,Trade,2022,4,7126.633346760163
+Osh oblast,Construction,2022,4,1447.9918519155997
+Osh oblast,Mortgage,2022,4,2640.764934557001
+Osh oblast,Individuals,2022,4,4847.13802875757
+Osh oblast,Other loans,2022,4,2351.52143415074
+Osh oblast,Industry,2023,1,1495.1871639982
+Osh oblast,"Agriculture, procurement and  processing",2023,1,8078.169537158049
+Osh oblast,Trade,2023,1,7933.6705186722975
+Osh oblast,Construction,2023,1,1372.3891545551992
+Osh oblast,Mortgage,2023,1,2726.9231191646004
+Osh oblast,Individuals,2023,1,5269.216944074851
+Osh oblast,Other loans,2023,1,2472.5662641576564
+Osh oblast,Industry,2023,2,1425.3173017374143
+Osh oblast,"Agriculture, procurement and  processing",2023,2,8872.504688592
+Osh oblast,Trade,2023,2,8640.894047187303
+Osh oblast,Construction,2023,2,1314.4193401022908
+Osh oblast,Mortgage,2023,2,2821.1050944592957
+Osh oblast,Individuals,2023,2,6452.220285872403
+Osh oblast,Other loans,2023,2,2778.052090160749
+Osh oblast,Industry,2023,3,1430.5537931531999
+Osh oblast,"Agriculture, procurement and  processing",2023,3,9188.040090130115
+Osh oblast,Trade,2023,3,9268.349763137945
+Osh oblast,Construction,2023,3,1290.1255515968
+Osh oblast,Mortgage,2023,3,2986.087408717299
+Osh oblast,Individuals,2023,3,7995.035520066499
+Osh oblast,Other loans,2023,3,2876.174150018524
+Osh oblast,Industry,2023,4,1529.032389667588
+Osh oblast,"Agriculture, procurement and  processing",2023,4,9111.672742931403
+Osh oblast,Trade,2023,4,9278.313792653376
+Osh oblast,Construction,2023,4,1152.0648364526844
+Osh oblast,Mortgage,2023,4,3135.501560539394
+Osh oblast,Individuals,2023,4,8798.712091373178
+Osh oblast,Other loans,2023,4,2919.6186619558116
+Osh oblast,Industry,2024,1,1405.680139622128
+Osh oblast,"Agriculture, procurement and  processing",2024,1,8953.455554665179
+Osh oblast,Trade,2024,1,9258.638114161045
+Osh oblast,Construction,2024,1,1127.5090494689396
+Osh oblast,Mortgage,2024,1,3287.9580684046155
+Osh oblast,Individuals,2024,1,9234.620152092913
+Osh oblast,Other loans,2024,1,3031.8352493316625
+Osh oblast,Industry,2024,2,1555.1906081888455
+Osh oblast,"Agriculture, procurement and  processing",2024,2,9595.746455481943
+Osh oblast,Trade,2024,2,9376.074071190382
+Osh oblast,Construction,2024,2,1194.3450940981297
+Osh oblast,Mortgage,2024,2,3530.8680906496115
+Osh oblast,Individuals,2024,2,10487.327360751815
+Osh oblast,Other loans,2024,2,3163.33429671941
+Osh oblast,Industry,2024,3,1569.991389929662
+Osh oblast,"Agriculture, procurement and  processing",2024,3,9639.689030837
+Osh oblast,Trade,2024,3,9610.49688846424
+Osh oblast,Construction,2024,3,1209.1686341579998
+Osh oblast,Mortgage,2024,3,3976.162439038
+Osh oblast,Individuals,2024,3,12662.229922667988
+Osh oblast,Other loans,2024,3,3492.3583603318066
+Osh oblast,Industry,2024,4,1692.5494368199998
+Osh oblast,"Agriculture, procurement and  processing",2024,4,9459.735336676618
+Osh oblast,Trade,2024,4,10476.513486239093
+Osh oblast,Construction,2024,4,1414.48052597
+Osh oblast,Mortgage,2024,4,4618.01282447
+Osh oblast,Individuals,2024,4,15270.72604199064
+Osh oblast,Other loans,2024,4,3897.9598929163676
+Osh oblast,Industry,2025,1,1536.8547516280003
+Osh oblast,"Agriculture, procurement and  processing",2025,1,9699.509037908
+Osh oblast,Trade,2025,1,10596.810791399908
+Osh oblast,Construction,2025,1,1337.7614931340001
+Osh oblast,Mortgage,2025,1,5032.092946398001
+Osh oblast,Individuals,2025,1,17423.209600642003
+Osh oblast,Other loans,2025,1,4758.646339732083
+Osh oblast,Industry,2025,2,1756.58201155082
+Osh oblast,"Agriculture, procurement and  processing",2025,2,10534.806867114561
+Osh oblast,Trade,2025,2,11767.664743018819
+Osh oblast,Construction,2025,2,1378.09057327238
+Osh oblast,Mortgage,2025,2,5651.25369134872
+Osh oblast,Individuals,2025,2,19198.242450426085
+Osh oblast,Other loans,2025,2,5667.629531539239
+Osh oblast,Industry,2025,3,1441.5063980899997
+Osh oblast,"Agriculture, procurement and  processing",2025,3,10955.12013473
+Osh oblast,Trade,2025,3,10661.5805782
+Osh oblast,Construction,2025,3,1389.8641108499999
+Osh oblast,Mortgage,2025,3,6536.94695525
+Osh oblast,Individuals,2025,3,20548.09734145
+Osh oblast,Other loans,2025,3,8874.00200418
+Osh oblast,Industry,2025,4,1403.4211118825795
+Osh oblast,"Agriculture, procurement and  processing",2025,4,10947.226259943687
+Osh oblast,Trade,2025,4,10325.243043961096
+Osh oblast,Construction,2025,4,1334.133798906297
+Osh oblast,Mortgage,2025,4,7962.872846051967
+Osh oblast,Individuals,2025,4,21417.602975550533
+Osh oblast,Other loans,2025,4,9166.204534987253
+Talas oblast,Industry,2018,1,125.7960925792373
+Talas oblast,"Agriculture, procurement and  processing",2018,1,1790.5882896302749
+Talas oblast,Trade,2018,1,405.3859196070843
+Talas oblast,Construction,2018,1,53.10477572299999
+Talas oblast,Mortgage,2018,1,101.78236519135
+Talas oblast,Individuals,2018,1,343.90235754888914
+Talas oblast,Other loans,2018,1,152.42772317020518
+Talas oblast,Industry,2018,2,183.28417320923728
+Talas oblast,"Agriculture, procurement and  processing",2018,2,2124.2120888826835
+Talas oblast,Trade,2018,2,417.11384055352306
+Talas oblast,Construction,2018,2,86.5618215052
+Talas oblast,Mortgage,2018,2,105.17949699
+Talas oblast,Individuals,2018,2,374.52053344062665
+Talas oblast,Other loans,2018,2,175.34974586770701
+Talas oblast,Industry,2018,3,178.42167966822035
+Talas oblast,"Agriculture, procurement and  processing",2018,3,2132.2265877145605
+Talas oblast,Trade,2018,3,468.13903687489267
+Talas oblast,Construction,2018,3,128.69772838325002
+Talas oblast,Mortgage,2018,3,111.090461836312
+Talas oblast,Individuals,2018,3,409.2517545151843
+Talas oblast,Other loans,2018,3,179.01731962469128
+Talas oblast,Industry,2018,4,173.5581736182203
+Talas oblast,"Agriculture, procurement and  processing",2018,4,1963.124904775742
+Talas oblast,Trade,2018,4,451.8964893440869
+Talas oblast,Construction,2018,4,140.38312947499998
+Talas oblast,Mortgage,2018,4,119.512184386
+Talas oblast,Individuals,2018,4,427.0104982538753
+Talas oblast,Other loans,2018,4,168.94099959288027
+Talas oblast,Industry,2019,1,174.5120914340325
+Talas oblast,"Agriculture, procurement and  processing",2019,1,2004.1308691418078
+Talas oblast,Trade,2019,1,476.78565812992093
+Talas oblast,Construction,2019,1,138.7446039789768
+Talas oblast,Mortgage,2019,1,128.6146897200525
+Talas oblast,Individuals,2019,1,428.0528809121684
+Talas oblast,Other loans,2019,1,153.56357810691202
+Talas oblast,Industry,2019,2,161.75967316999999
+Talas oblast,"Agriculture, procurement and  processing",2019,2,2305.803870383888
+Talas oblast,Trade,2019,2,499.27998964144
+Talas oblast,Construction,2019,2,182.301778485616
+Talas oblast,Mortgage,2019,2,136.54505137814402
+Talas oblast,Individuals,2019,2,494.5883325018641
+Talas oblast,Other loans,2019,2,139.64228425481602
+Talas oblast,Industry,2019,3,145.07318878822034
+Talas oblast,"Agriculture, procurement and  processing",2019,3,2332.9962494608735
+Talas oblast,Trade,2019,3,547.5397325982353
+Talas oblast,Construction,2019,3,209.27502803177305
+Talas oblast,Mortgage,2019,3,147.664868922612
+Talas oblast,Individuals,2019,3,539.7070583432738
+Talas oblast,Other loans,2019,3,134.93601867507672
+Talas oblast,Industry,2019,4,312.13839998
+Talas oblast,"Agriculture, procurement and  processing",2019,4,2523.5009329692657
+Talas oblast,Trade,2019,4,544.667414759727
+Talas oblast,Construction,2019,4,265.18905656405497
+Talas oblast,Mortgage,2019,4,312.87911822005304
+Talas oblast,Individuals,2019,4,692.2146701667402
+Talas oblast,Other loans,2019,4,187.841928788505
+Talas oblast,Industry,2020,1,313.31127998
+Talas oblast,"Agriculture, procurement and  processing",2020,1,2541.042986179999
+Talas oblast,Trade,2020,1,557.6914866629
+Talas oblast,Construction,2020,1,265.76760951480003
+Talas oblast,Mortgage,2020,1,308.6857383349
+Talas oblast,Individuals,2020,1,674.2419482538002
+Talas oblast,Other loans,2020,1,184.369090953
+Talas oblast,Industry,2020,2,320.46018734999996
+Talas oblast,"Agriculture, procurement and  processing",2020,2,2830.9720111499996
+Talas oblast,Trade,2020,2,562.68707890245
+Talas oblast,Construction,2020,2,287.00264157482894
+Talas oblast,Mortgage,2020,2,319.71271362
+Talas oblast,Individuals,2020,2,634.12621097
+Talas oblast,Other loans,2020,2,197.4973269536
+Talas oblast,Industry,2020,3,375.69520445999996
+Talas oblast,"Agriculture, procurement and  processing",2020,3,2991.6437722299993
+Talas oblast,Trade,2020,3,564.2314844819999
+Talas oblast,Construction,2020,3,286.878013386
+Talas oblast,Mortgage,2020,3,347.765112926
+Talas oblast,Individuals,2020,3,651.3679761060001
+Talas oblast,Other loans,2020,3,203.176358724
+Talas oblast,Industry,2020,4,370.56445119999995
+Talas oblast,"Agriculture, procurement and  processing",2020,4,2915.021600159999
+Talas oblast,Trade,2020,4,563.417654978328
+Talas oblast,Construction,2020,4,286.9225047332981
+Talas oblast,Mortgage,2020,4,354.070962038108
+Talas oblast,Individuals,2020,4,633.2529075565241
+Talas oblast,Other loans,2020,4,220.633715690688
+Talas oblast,Industry,2021,1,275.9016815146271
+Talas oblast,"Agriculture, procurement and  processing",2021,1,2725.1209514643415
+Talas oblast,Trade,2021,1,609.6092690485528
+Talas oblast,Construction,2021,1,197.57034617526398
+Talas oblast,Mortgage,2021,1,227.5419598313848
+Talas oblast,Individuals,2021,1,522.3299844774197
+Talas oblast,Other loans,2021,1,168.84991595707996
+Talas oblast,Industry,2021,2,270.9143509539571
+Talas oblast,"Agriculture, procurement and  processing",2021,2,2996.3549107185017
+Talas oblast,Trade,2021,2,633.4599966367767
+Talas oblast,Construction,2021,2,213.06742344248005
+Talas oblast,Mortgage,2021,2,251.28578699221677
+Talas oblast,Individuals,2021,2,581.5184706025404
+Talas oblast,Other loans,2021,2,183.09021357528
+Talas oblast,Industry,2021,3,340.7299809135571
+Talas oblast,"Agriculture, procurement and  processing",2021,3,3047.120300573411
+Talas oblast,Trade,2021,3,671.1470701811779
+Talas oblast,Construction,2021,3,228.016460934184
+Talas oblast,Mortgage,2021,3,269.4198694319548
+Talas oblast,Individuals,2021,3,663.1475378805147
+Talas oblast,Other loans,2021,3,190.30423545961997
+Talas oblast,Industry,2021,4,428.95193313000004
+Talas oblast,"Agriculture, procurement and  processing",2021,4,3324.5599691225125
+Talas oblast,Trade,2021,4,665.76810536004
+Talas oblast,Construction,2021,4,308.152478863452
+Talas oblast,Mortgage,2021,4,471.783244741422
+Talas oblast,Individuals,2021,4,874.5565375612761
+Talas oblast,Other loans,2021,4,213.70894291000002
+Talas oblast,Industry,2022,1,427.10334100618
+Talas oblast,"Agriculture, procurement and  processing",2022,1,3423.887510468026
+Talas oblast,Trade,2022,1,678.6155520043169
+Talas oblast,Construction,2022,1,320.82444526569
+Talas oblast,Mortgage,2022,1,638.19443023
+Talas oblast,Individuals,2022,1,1059.3726897698
+Talas oblast,Other loans,2022,1,226.70566661041002
+Talas oblast,Industry,2022,2,353.83758473
+Talas oblast,"Agriculture, procurement and  processing",2022,2,3354.772880977431
+Talas oblast,Trade,2022,2,703.645067915
+Talas oblast,Construction,2022,2,218.26255895000003
+Talas oblast,Mortgage,2022,2,314.43662259499996
+Talas oblast,Individuals,2022,2,844.7542866900003
+Talas oblast,Other loans,2022,2,208.94810257
+Talas oblast,Industry,2022,3,356.03351904209
+Talas oblast,"Agriculture, procurement and  processing",2022,3,3446.1068288716497
+Talas oblast,Trade,2022,3,722.2897405208608
+Talas oblast,Construction,2022,3,214.43295837000002
+Talas oblast,Mortgage,2022,3,324.38061813639797
+Talas oblast,Individuals,2022,3,941.6719703665958
+Talas oblast,Other loans,2022,3,190.33860872373094
+Talas oblast,Industry,2022,4,348.1420070992
+Talas oblast,"Agriculture, procurement and  processing",2022,4,3289.88275983201
+Talas oblast,Trade,2022,4,784.1149437548
+Talas oblast,Construction,2022,4,199.70478641
+Talas oblast,Mortgage,2022,4,347.5276507672
+Talas oblast,Individuals,2022,4,1015.9477929715996
+Talas oblast,Other loans,2022,4,187.49984470919998
+Talas oblast,Industry,2023,1,285.61210778500003
+Talas oblast,"Agriculture, procurement and  processing",2023,1,3336.5234689439
+Talas oblast,Trade,2023,1,894.0689771991999
+Talas oblast,Construction,2023,1,186.1651853
+Talas oblast,Mortgage,2023,1,420.444757361
+Talas oblast,Individuals,2023,1,1166.7850114297999
+Talas oblast,Other loans,2023,1,206.95275461
+Talas oblast,Industry,2023,2,230.16886950526003
+Talas oblast,"Agriculture, procurement and  processing",2023,2,3889.103347076695
+Talas oblast,Trade,2023,2,959.9563494351949
+Talas oblast,Construction,2023,2,188.94519932
+Talas oblast,Mortgage,2023,2,466.36914803
+Talas oblast,Individuals,2023,2,1210.3468246314308
+Talas oblast,Other loans,2023,2,227.6949036077239
+Talas oblast,Industry,2023,3,225.2272112899999
+Talas oblast,"Agriculture, procurement and  processing",2023,3,4130.490531376319
+Talas oblast,Trade,2023,3,1082.2069987264
+Talas oblast,Construction,2023,3,190.12431611
+Talas oblast,Mortgage,2023,3,542.26043224
+Talas oblast,Individuals,2023,3,1500.2834617133003
+Talas oblast,Other loans,2023,3,226.9505270391
+Talas oblast,Industry,2023,4,195.60258898
+Talas oblast,"Agriculture, procurement and  processing",2023,4,3939.2628518800007
+Talas oblast,Trade,2023,4,1075.468281151473
+Talas oblast,Construction,2023,4,173.21925317
+Talas oblast,Mortgage,2023,4,582.3542623700001
+Talas oblast,Individuals,2023,4,1664.6292809531535
+Talas oblast,Other loans,2023,4,224.16017476918205
+Talas oblast,Industry,2024,1,182.66170085000002
+Talas oblast,"Agriculture, procurement and  processing",2024,1,4104.072373710001
+Talas oblast,Trade,2024,1,1196.015407837796
+Talas oblast,Construction,2024,1,157.89478178
+Talas oblast,Mortgage,2024,1,619.3280541500001
+Talas oblast,Individuals,2024,1,1836.1980877701012
+Talas oblast,Other loans,2024,1,251.82504757435186
+Talas oblast,Industry,2024,2,173.15140785460082
+Talas oblast,"Agriculture, procurement and  processing",2024,2,4727.631784329999
+Talas oblast,Trade,2024,2,1254.7850152284866
+Talas oblast,Construction,2024,2,170.55754692527145
+Talas oblast,Mortgage,2024,2,686.33420258
+Talas oblast,Individuals,2024,2,2169.639165442401
+Talas oblast,Other loans,2024,2,259.183148817776
+Talas oblast,Industry,2024,3,175.26101138181272
+Talas oblast,"Agriculture, procurement and  processing",2024,3,4849.85359406
+Talas oblast,Trade,2024,3,1317.068816092402
+Talas oblast,Construction,2024,3,158.38955722122168
+Talas oblast,Mortgage,2024,3,773.75995692
+Talas oblast,Individuals,2024,3,2711.4223025984456
+Talas oblast,Other loans,2024,3,343.10141864999997
+Talas oblast,Industry,2024,4,165.98287182
+Talas oblast,"Agriculture, procurement and  processing",2024,4,4856.41455328999
+Talas oblast,Trade,2024,4,1306.00570935
+Talas oblast,Construction,2024,4,150.98814579
+Talas oblast,Mortgage,2024,4,861.28081973
+Talas oblast,Individuals,2024,4,3153.531192979335
+Talas oblast,Other loans,2024,4,591.2140168100001
+Talas oblast,Industry,2025,1,163.452889
+Talas oblast,"Agriculture, procurement and  processing",2025,1,5020.2332537599905
+Talas oblast,Trade,2025,1,1351.6068821640001
+Talas oblast,Construction,2025,1,165.73246971999998
+Talas oblast,Mortgage,2025,1,895.1655421400001
+Talas oblast,Individuals,2025,1,3520.337792626002
+Talas oblast,Other loans,2025,1,860.98332466
+Talas oblast,Industry,2025,2,195.73290514
+Talas oblast,"Agriculture, procurement and  processing",2025,2,5569.555420260001
+Talas oblast,Trade,2025,2,1511.2905904377599
+Talas oblast,Construction,2025,2,184.89482684
+Talas oblast,Mortgage,2025,2,968.7103784200002
+Talas oblast,Individuals,2025,2,3919.3075779994415
+Talas oblast,Other loans,2025,2,1168.98702664
+Talas oblast,Industry,2025,3,73.26342479
+Talas oblast,"Agriculture, procurement and  processing",2025,3,5158.69405568
+Talas oblast,Trade,2025,3,979.08126267
+Talas oblast,Construction,2025,3,213.96918438000003
+Talas oblast,Mortgage,2025,3,925.1885982200001
+Talas oblast,Individuals,2025,3,3860.4746676499994
+Talas oblast,Other loans,2025,3,1558.9548717200003
+Talas oblast,Industry,2025,4,61.02543364999999
+Talas oblast,"Agriculture, procurement and  processing",2025,4,5746.806077650036
+Talas oblast,Trade,2025,4,1064.4258700462549
+Talas oblast,Construction,2025,4,220.78210467000002
+Talas oblast,Mortgage,2025,4,1259.63907189
+Talas oblast,Individuals,2025,4,4388.129913709992
+Talas oblast,Other loans,2025,4,1956.481254228566
+Chui oblast,Industry,2018,1,457.3266157928
+Chui oblast,"Agriculture, procurement and  processing",2018,1,3489.2231982762974
+Chui oblast,Trade,2018,1,1369.273793491769
+Chui oblast,Construction,2018,1,195.64898207332496
+Chui oblast,Mortgage,2018,1,549.947502167975
+Chui oblast,Individuals,2018,1,1117.820494005545
+Chui oblast,Other loans,2018,1,588.1923130141147
+Chui oblast,Industry,2018,2,467.2738722141999
+Chui oblast,"Agriculture, procurement and  processing",2018,2,3923.12847364188
+Chui oblast,Trade,2018,2,1633.017667262612
+Chui oblast,Construction,2018,2,291.9529362868
+Chui oblast,Mortgage,2018,2,609.6940319282
+Chui oblast,Individuals,2018,2,1202.409710849404
+Chui oblast,Other loans,2018,2,643.6586900214281
+Chui oblast,Industry,2018,3,496.39411858502405
+Chui oblast,"Agriculture, procurement and  processing",2018,3,3845.556814501971
+Chui oblast,Trade,2018,3,1594.196154437098
+Chui oblast,Construction,2018,3,350.765061114075
+Chui oblast,Mortgage,2018,3,649.9288249255189
+Chui oblast,Individuals,2018,3,1353.5647529422863
+Chui oblast,Other loans,2018,3,672.8236472795351
+Chui oblast,Industry,2018,4,469.642702777
+Chui oblast,"Agriculture, procurement and  processing",2018,4,4023.2612240506282
+Chui oblast,Trade,2018,4,1645.345869726013
+Chui oblast,Construction,2018,4,355.3737954065
+Chui oblast,Mortgage,2018,4,741.7318296039999
+Chui oblast,Individuals,2018,4,1438.4667127905911
+Chui oblast,Other loans,2018,4,658.3486177165081
+Chui oblast,Industry,2019,1,451.75205538885876
+Chui oblast,"Agriculture, procurement and  processing",2019,1,4199.163547099409
+Chui oblast,Trade,2019,1,1783.7062291942864
+Chui oblast,Construction,2019,1,355.1193090981557
+Chui oblast,Mortgage,2019,1,791.1393473386529
+Chui oblast,Individuals,2019,1,1404.5844450531783
+Chui oblast,Other loans,2019,1,637.7453519442495
+Chui oblast,Industry,2019,2,518.93245009848
+Chui oblast,"Agriculture, procurement and  processing",2019,2,4626.327640383862
+Chui oblast,Trade,2019,2,1827.019146623544
+Chui oblast,Construction,2019,2,399.95978343319206
+Chui oblast,Mortgage,2019,2,847.791913435832
+Chui oblast,Individuals,2019,2,1549.6438309766959
+Chui oblast,Other loans,2019,2,650.53586773496
+Chui oblast,Industry,2019,3,483.46852334070155
+Chui oblast,"Agriculture, procurement and  processing",2019,3,4649.0162966919825
+Chui oblast,Trade,2019,3,1773.1471101316931
+Chui oblast,Construction,2019,3,420.04810932854195
+Chui oblast,Mortgage,2019,3,968.1158834425762
+Chui oblast,Individuals,2019,3,1721.173007693158
+Chui oblast,Other loans,2019,3,682.6479779148254
+Chui oblast,Industry,2019,4,473.50626452168103
+Chui oblast,"Agriculture, procurement and  processing",2019,4,4584.47599648078
+Chui oblast,Trade,2019,4,1720.924931754957
+Chui oblast,Construction,2019,4,405.1701954721069
+Chui oblast,Mortgage,2019,4,1056.161198959222
+Chui oblast,Individuals,2019,4,1843.7828152989687
+Chui oblast,Other loans,2019,4,784.364473565027
+Chui oblast,Industry,2020,1,673.3743750722999
+Chui oblast,"Agriculture, procurement and  processing",2020,1,4574.247601047596
+Chui oblast,Trade,2020,1,1844.3821425265999
+Chui oblast,Construction,2020,1,399.42084884329995
+Chui oblast,Mortgage,2020,1,1080.6634667071003
+Chui oblast,Individuals,2020,1,1788.832983790101
+Chui oblast,Other loans,2020,1,797.5086733908
+Chui oblast,Industry,2020,2,642.237465148795
+Chui oblast,"Agriculture, procurement and  processing",2020,2,5033.703805744999
+Chui oblast,Trade,2020,2,1819.0514705764688
+Chui oblast,Construction,2020,2,394.18882623571204
+Chui oblast,Mortgage,2020,2,1113.3210758853638
+Chui oblast,Individuals,2020,2,1789.2487762273608
+Chui oblast,Other loans,2020,2,769.9715992272029
+Chui oblast,Industry,2020,3,689.2772829539999
+Chui oblast,"Agriculture, procurement and  processing",2020,3,5128.364154003996
+Chui oblast,Trade,2020,3,1854.027726897
+Chui oblast,Construction,2020,3,376.6048359219999
+Chui oblast,Mortgage,2020,3,1210.113294696
+Chui oblast,Individuals,2020,3,1864.157111531998
+Chui oblast,Other loans,2020,3,789.069838779
+Chui oblast,Industry,2020,4,702.0801058126839
+Chui oblast,"Agriculture, procurement and  processing",2020,4,5093.544693580905
+Chui oblast,Trade,2020,4,1816.1340332129787
+Chui oblast,Construction,2020,4,359.17140902245717
+Chui oblast,Mortgage,2020,4,1254.4583119963245
+Chui oblast,Individuals,2020,4,1899.5098834835937
+Chui oblast,Other loans,2020,4,770.250244010834
+Chui oblast,Industry,2021,1,659.3952967825248
+Chui oblast,"Agriculture, procurement and  processing",2021,1,5152.802518280486
+Chui oblast,Trade,2021,1,1765.1101081031572
+Chui oblast,Construction,2021,1,351.207225941035
+Chui oblast,Mortgage,2021,1,1235.3936216838995
+Chui oblast,Individuals,2021,1,1852.1568344470206
+Chui oblast,Other loans,2021,1,742.9265730376434
+Chui oblast,Industry,2021,2,697.9661283731307
+Chui oblast,"Agriculture, procurement and  processing",2021,2,5477.739772472491
+Chui oblast,Trade,2021,2,1756.701753731989
+Chui oblast,Construction,2021,2,393.6024177232496
+Chui oblast,Mortgage,2021,2,1278.8641020284376
+Chui oblast,Individuals,2021,2,1949.1792367063429
+Chui oblast,Other loans,2021,2,758.6730185611773
+Chui oblast,Industry,2021,3,688.8547681470477
+Chui oblast,"Agriculture, procurement and  processing",2021,3,5420.646465328061
+Chui oblast,Trade,2021,3,1664.1358964302967
+Chui oblast,Construction,2021,3,409.56720689511735
+Chui oblast,Mortgage,2021,3,1337.0368711216345
+Chui oblast,Individuals,2021,3,2133.4436057932685
+Chui oblast,Other loans,2021,3,770.7379637770453
+Chui oblast,Industry,2021,4,721.046744107534
+Chui oblast,"Agriculture, procurement and  processing",2021,4,5209.092229080672
+Chui oblast,Trade,2021,4,1678.5690534022488
+Chui oblast,Construction,2021,4,403.236615065764
+Chui oblast,Mortgage,2021,4,1498.53745651315
+Chui oblast,Individuals,2021,4,2197.4919505414096
+Chui oblast,Other loans,2021,4,783.358154442066
+Chui oblast,Industry,2022,1,684.15894921141
+Chui oblast,"Agriculture, procurement and  processing",2022,1,5487.314041849398
+Chui oblast,Trade,2022,1,1719.563023367058
+Chui oblast,Construction,2022,1,394.627740781529
+Chui oblast,Mortgage,2022,1,1663.8331174928298
+Chui oblast,Individuals,2022,1,2258.262526241712
+Chui oblast,Other loans,2022,1,880.032715081755
+Chui oblast,Industry,2022,2,730.881407245
+Chui oblast,"Agriculture, procurement and  processing",2022,2,5738.8528366723185
+Chui oblast,Trade,2022,2,1742.742656971709
+Chui oblast,Construction,2022,2,421.82025231999995
+Chui oblast,Mortgage,2022,2,1713.095310765
+Chui oblast,Individuals,2022,2,2538.8062050549997
+Chui oblast,Other loans,2022,2,894.6377206950351
+Chui oblast,Industry,2022,3,843.18586824825
+Chui oblast,"Agriculture, procurement and  processing",2022,3,5676.688384476802
+Chui oblast,Trade,2022,3,1725.3595884280355
+Chui oblast,Construction,2022,3,499.61360258131197
+Chui oblast,Mortgage,2022,3,1909.2284750319777
+Chui oblast,Individuals,2022,3,2973.6086788337157
+Chui oblast,Other loans,2022,3,918.1580172737079
+Chui oblast,Industry,2022,4,866.26211527417
+Chui oblast,"Agriculture, procurement and  processing",2022,4,5612.2538841595115
+Chui oblast,Trade,2022,4,1922.978835861286
+Chui oblast,Construction,2022,4,580.6470392748
+Chui oblast,Mortgage,2022,4,2075.6489551983996
+Chui oblast,Individuals,2022,4,3315.179871224799
+Chui oblast,Other loans,2022,4,985.201378034816
+Chui oblast,Industry,2023,1,766.9579497078801
+Chui oblast,"Agriculture, procurement and  processing",2023,1,5577.535396943767
+Chui oblast,Trade,2023,1,2261.80071360256
+Chui oblast,Construction,2023,1,576.5574973493999
+Chui oblast,Mortgage,2023,1,2284.4393523224003
+Chui oblast,Individuals,2023,1,3472.945510759799
+Chui oblast,Other loans,2023,1,1031.072601357001
+Chui oblast,Industry,2023,2,767.4839707050999
+Chui oblast,"Agriculture, procurement and  processing",2023,2,6136.549238721499
+Chui oblast,Trade,2023,2,2415.140693785261
+Chui oblast,Construction,2023,2,575.305667449389
+Chui oblast,Mortgage,2023,2,2379.2254035792303
+Chui oblast,Individuals,2023,2,4042.653466025419
+Chui oblast,Other loans,2023,2,1099.882429730696
+Chui oblast,Industry,2023,3,632.8273144320399
+Chui oblast,"Agriculture, procurement and  processing",2023,3,6158.353182134498
+Chui oblast,Trade,2023,3,2469.9876487598117
+Chui oblast,Construction,2023,3,618.838962603
+Chui oblast,Mortgage,2023,3,2692.7879568376015
+Chui oblast,Individuals,2023,3,4887.478865126201
+Chui oblast,Other loans,2023,3,1118.6627589659417
+Chui oblast,Industry,2023,4,643.4887566926601
+Chui oblast,"Agriculture, procurement and  processing",2023,4,6003.3535199375265
+Chui oblast,Trade,2023,4,2526.9039624027173
+Chui oblast,Construction,2023,4,653.079540621205
+Chui oblast,Mortgage,2023,4,2823.8625118178293
+Chui oblast,Individuals,2023,4,5425.836412921735
+Chui oblast,Other loans,2023,4,1141.667439733415
+Chui oblast,Industry,2024,1,618.3051372373701
+Chui oblast,"Agriculture, procurement and  processing",2024,1,5974.357326784433
+Chui oblast,Trade,2024,1,2556.6857950924614
+Chui oblast,Construction,2024,1,640.450608241052
+Chui oblast,Mortgage,2024,1,2995.470677101376
+Chui oblast,Individuals,2024,1,5804.74661036863
+Chui oblast,Other loans,2024,1,1155.069268094212
+Chui oblast,Industry,2024,2,670.3460962189
+Chui oblast,"Agriculture, procurement and  processing",2024,2,6408.19046735397
+Chui oblast,Trade,2024,2,2756.72384248682
+Chui oblast,Construction,2024,2,743.0429883615519
+Chui oblast,Mortgage,2024,2,3272.790077757978
+Chui oblast,Individuals,2024,2,6624.230878920763
+Chui oblast,Other loans,2024,2,1162.6980541506216
+Chui oblast,Industry,2024,3,644.2885755319999
+Chui oblast,"Agriculture, procurement and  processing",2024,3,6680.948228268841
+Chui oblast,Trade,2024,3,2886.418892289323
+Chui oblast,Construction,2024,3,777.2983451959999
+Chui oblast,Mortgage,2024,3,3694.4543485159993
+Chui oblast,Individuals,2024,3,8415.544365640002
+Chui oblast,Other loans,2024,3,1270.2688329533369
+Chui oblast,Industry,2024,4,701.22968851
+Chui oblast,"Agriculture, procurement and  processing",2024,4,6669.6615598516755
+Chui oblast,Trade,2024,4,3068.8107006740547
+Chui oblast,Construction,2024,4,758.49949988
+Chui oblast,Mortgage,2024,4,3938.28212888
+Chui oblast,Individuals,2024,4,10342.251127920006
+Chui oblast,Other loans,2024,4,1559.6700903739438
+Chui oblast,Industry,2025,1,693.613813422
+Chui oblast,"Agriculture, procurement and  processing",2025,1,6564.633030889538
+Chui oblast,Trade,2025,1,3277.2753121801456
+Chui oblast,Construction,2025,1,740.079950494
+Chui oblast,Mortgage,2025,1,4219.414856435999
+Chui oblast,Individuals,2025,1,12228.264910460006
+Chui oblast,Other loans,2025,1,1869.395101848592
+Chui oblast,Industry,2025,2,757.40903941354
+Chui oblast,"Agriculture, procurement and  processing",2025,2,7009.959853008798
+Chui oblast,Trade,2025,2,3340.42986221276
+Chui oblast,Construction,2025,2,767.09951783936
+Chui oblast,Mortgage,2025,2,4543.55867987936
+Chui oblast,Individuals,2025,2,13492.330294664916
+Chui oblast,Other loans,2025,2,2289.63644114708
+Chui oblast,Industry,2025,3,550.77363164
+Chui oblast,"Agriculture, procurement and  processing",2025,3,7506.0433296500005
+Chui oblast,Trade,2025,3,3575.7012826599994
+Chui oblast,Construction,2025,3,652.28065377
+Chui oblast,Mortgage,2025,3,5316.90302495
+Chui oblast,Individuals,2025,3,14617.719086859997
+Chui oblast,Other loans,2025,3,4354.823369850001
+Chui oblast,Industry,2025,4,455.67544116373534
+Chui oblast,"Agriculture, procurement and  processing",2025,4,7589.531206497834
+Chui oblast,Trade,2025,4,3769.8880702278307
+Chui oblast,Construction,2025,4,658.2010601101455
+Chui oblast,Mortgage,2025,4,5907.502796632703
+Chui oblast,Individuals,2025,4,16238.393906546815
+Chui oblast,Other loans,2025,4,6082.973529069839
