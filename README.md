@@ -57,6 +57,7 @@ Datasets:
 
   * Jupyter notebook containing the complete analysis workflow
   * Data preparation, SQL analysis summary, visualizations, and conclusions
+  * Notebook Preview: - [View notebook in NBViewer](https://nbviewer.org/github/alina-kalmamat/kyrgyzstan-credit-market-analysis/blob/main/notebooks/credit_market_analysis.ipynb)
 
 * [**sql**](./sql)
 
